@@ -71,7 +71,7 @@ def raw2cal(data, links=None):
                 isexam = True
             else:
                 ans.append({
-                    "title":k?hasClass:k+"(no class)",
+                    "title":k if hasClass else k+"(no class)",
                     "kind":"special",
                     "day":d
                 })
