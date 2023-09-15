@@ -5,6 +5,7 @@ Special Dates:
   Thanksgiving Day: 2023-11-23
   Native American Heritage Day: 2023-11-24
   Final Exam: 2023-05-11
+  Midterm Exam: 2023-10-30
 
 meta:
   timezone: America/New_York
@@ -49,7 +50,6 @@ lectures:
     - Dictionaries 6 (Hashing cont.)
     - Sorting 1 (Comparison Sorting)
     - Sorting 2 (Beyond Comparison Sorting)
-    - Midterm
     - Graphs 1 (Intro to Graphs)
     - Graphs 2 (Traversals)
     - Graphs 3 (Shortest Path)
