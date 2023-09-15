@@ -27,7 +27,7 @@ sections:
     type: lab
     room: Various
     days: [Thursday]
-    start: various
+    start: 24:00:00
     duration: 75
 
 labs:
@@ -36,6 +36,9 @@ labs:
 
 lectures:
     - Welcome
+
+labs:
+    - Lab 1
 
 reading:
     Graphs Introduction, BFS:

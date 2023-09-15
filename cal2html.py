@@ -104,6 +104,8 @@ def raw2cal(data, links=None):
                         "where":ent['room']
                     })
                 else:
+                    print(d)
+                    print(ent['type'])
                     ans.append({
                         'section':sec,
                         'title':data[ent['type']+'s'][ent['sidx']] or '',
