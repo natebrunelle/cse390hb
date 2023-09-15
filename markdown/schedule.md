@@ -1,5 +1,5 @@
 ---
-title: Spring 2023 Schedule
+title: Autumn 2023 Schedule
 ...
 
 
