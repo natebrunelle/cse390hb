@@ -64,7 +64,16 @@ lectures:
     - P NP NP-Complete 2
 
 labs:
-    - Lab 1
+    - S01 Intros, P1, Tries
+    - S02 Algorithm Analysis & Heaps
+    - S03 Recurrences
+    - S04 AVL Trees & B-Trees
+    - S05 Hashing & Sorting
+    - S06 Graphs
+    - S07 Writing Parallel Programs
+    - S08 Two-pass Parallel Programs
+    - S09 Concurrency & Graphs
+    - S10 P/NP & Final Review
 
 reading:
     Graphs Introduction, BFS:
