@@ -1,5 +1,5 @@
 ---
-title: cs3100
+title: Data Structures and Parallelism
 ...
 
 
