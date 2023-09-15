@@ -7,10 +7,11 @@ target="$(readlink -f "$here""/demo_site/")/"
 #remote=njb2b@portal.cs.virginia.edu:public_html/cs3100/s2023
 mkdir -p "$target"files
 
-if ls ~/.local/pandoc*/bin/pandoc
-then pd="$(ls  ~/.local/pandoc*/bin/pandoc | tail -1)"
-else pd="$(which pandoc)"
-fi
+#if ls ~/.local/pandoc*/bin/pandoc
+#then pd="$(ls  ~/.local/pandoc*/bin/pandoc | tail -1)"
+#else pd="$(which pandoc)"
+#fi
+pd="$(which pandoc)"
 which python3 || module load python3
 
 if [ "$#" -lt 1 ] || [ "$1" != 'test' ]
