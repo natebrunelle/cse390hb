@@ -50,6 +50,7 @@ def raw2cal(data, links=None):
         dt = datetime.fromordinal(d.toordinal())
         isexam = False
         ans = []
+        hasClass = True
         
         # handle metadata
         if d == data['meta']['final']['start'].date():
@@ -62,17 +63,16 @@ def raw2cal(data, links=None):
                 "where":final['room']
             })
         for k,v in data['Special Dates'].items():
-            kind = "special"
             if (v['start'] > d or v['end'] < d) if type(v) is dict else d not in v if type(v) is list else v != d:
                 continue # does not apply
             if 'recess' in k.lower() or 'reading' in k.lower() or 'break' in k.lower() or 'day' in k.lower():
-                kind = "no class special" # no classes
+                hasClass = False # no classes
             if 'exam' in k.lower() or 'test' in k.lower() or 'midterm' in k.lower():
                 isexam = True
             else:
                 ans.append({
                     "title":k,
-                    "kind":kind,
+                    "kind":"special",
                     "day":d
                 })
         if d >= beg and d <= end:
@@ -80,6 +80,8 @@ def raw2cal(data, links=None):
             # handle sections
             for sec, ent in data['sections'].items():
                 if d.weekday() not in ent['days']: continue
+                if not hasClass: continue
+
                 if isexam and any((
                     data['meta'].get('lecture exam') == (ent['type'] == 'lecture'),
                     ent.get('exams')
