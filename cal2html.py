@@ -227,6 +227,7 @@ def cal2html(cal):
                 ans.append('<span class="date w{1}">{0}</span>'.format(day['date'].strftime('%d %b').strip('0'), day['date'].strftime('%w')))
                 ans.append('<div class="events">')
                 for e in day['events']:
+                    print(e)
                     #if e.get('kind') == 'assignment' : continue
                     if e.get('kind') == 'oh': continue
                     if e.get('hide'): continue
