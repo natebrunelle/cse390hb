@@ -18,23 +18,23 @@ meta:
 
 sections:
   Brunelle:
-    type: lecture
+    type: Lecture
     room: Gilmer 301
     days: [Monday, Wednesday, Friday]
     start: 14:00:00
     duration: 50
   Lab:
-    type: quiz section
+    type: Section
     room: Various
     days: [Thursday]
     start: 24:00:00
     duration: 75
 
-quiz sections:
+Sections:
     days: [Thursday]
 
 
-lectures:
+Lectures:
     - Welcome
 
 labs:
