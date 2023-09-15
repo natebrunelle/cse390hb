@@ -63,6 +63,7 @@ def raw2cal(data, links=None):
                 "where":final['room']
             })
         for k,v in data['Special Dates'].items():
+            hasClass = True
             if (v['start'] > d or v['end'] < d) if type(v) is dict else d not in v if type(v) is list else v != d:
                 continue # does not apply
             if 'recess' in k.lower() or 'reading' in k.lower() or 'break' in k.lower() or 'day' in k.lower():
