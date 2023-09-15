@@ -1,0 +1,123 @@
+2023-01-19:
+    slides(pptx): files/slides/lecture1_welcome.pptx
+    slides(pdf): files/slides/lecture1_welcome.pdf
+
+2023-01-24:
+    slides(pptx): files/slides/lecture2_analysis.pptx
+    slides(pdf): files/slides/lecture2_analysis.pdf
+    
+2023-01-26:
+    slides(pptx): files/slides/lecture3_bfs.pptx
+    slides(pdf): files/slides/lecture3_bfs.pdf
+    annotated slides (11am): files/slides/lecture3_bfs_11am.pdf
+    annotated slides (2pm): files/slides/lecture3_bfs_2pm.pdf
+    bfs(python): files/code/bfs.py
+      
+2023-01-31:
+    slides (pptx): files/slides/lecture4_dfs.pptx
+    slides (pdf): files/slides/lecture4_dfs.pdf
+    annotated slides (11am): files/slides/lecture4_dfs_11am.pdf
+    annotated slides (2pm): files/slides/lecture4_dfs_2pm.pdf
+    dfs(python): files/code/dfs.py
+
+2023-02-02:
+    slides(pdf): files/slides/lecture5_dijkstra.pdf
+    slides(pptx): files/slides/lecture5_dijkstra.pptx
+    annotated slides (11am): files/slides/lecture5_dijkstra_11am.pdf
+    annotated slides (2pm): files/slides/lecture5_dijkstra_2pm.pdf
+    
+2023-02-07:
+    slides (pptx): files/slides/lecture6_divide_and_conquer.pptx
+    slides (pdf): files/slides/lecture6_divide_and_conquer.pdf
+    annotated slides (11am): files/slides/lecture6_divide_and_conquer_11am.pdf
+    annotated slides (2pm): files/slides/lecture6_divide_and_conquer_2pm.pdf
+    
+2023-02-09:
+    slides (pptx): files/slides/lecture7_divide_and_conquer2.pptx
+    slides (pdf): files/slides/lecture7_divide_and_conquer2.pdf
+    annotated slides (11am): files/slides/lecture7_divide_and_conquer2_11am.pdf
+    annotated slides (2pm): files/slides/lecture7_divide_and_conquer2_2pm.pdf
+
+2023-02-14:
+    slides (pptx): files/slides/lecture8_divide_and_conquer3.pptx
+    slides (pdf): files/slides/lecture8_divide_and_conquer3.pdf
+    
+2023-02-16:
+    slides (pptx): files/slides/lecture9_divide_and_conquer4.pptx
+    slides (pdf): files/slides/lecture9_divide_and_conquer4.pdf
+    
+2023-02-21:
+    slides (pptx): files/slides/lecture10_closest_pair.pptx
+    slides (pdf): files/slides/lecture10_closest_pair.pdf
+    
+2023-02-23:
+    slides (pptx): files/slides/lecture11_DandC_wrap.pptx
+    slides (pdf): files/slides/lecture11_DandC_wrap.pdf
+    
+2023-02-28:
+    slides (pptx): files/slides/lecture12_greedy.pptx
+    slides (pdf): files/slides/lecture12_greedy.pdf
+    
+2023-03-02:
+    slides (pptx): files/slides/lecture13_huffman.pptx
+    slides (pdf): files/slides/lecture13_huffman.pdf
+    
+2023-03-14:
+    slides (pptx): files/slides/lecture14_greedy_knapsack.pptx
+    slides (pdf): files/slides/lecture14_greedy_knapsack.pdf
+
+2023-03-16:
+    slides (pptx): files/slides/lecture15_mst.pptx
+    slides (pdf): files/slides/lecture15_mst.pdf
+    
+2023-03-21:
+    slides (pptx): files/slides/lecture16_dynamic_programming.pptx
+    slides (pdf): files/slides/lecture16_dynamic_programming.pdf
+    
+2023-03-23:
+    slides (pptx): files/slides/lecture17_dynamic_programming2.pptx
+    slides (pdf): files/slides/lecture17_dynamic_programming2.pdf
+
+2023-03-28:
+    slides (pptx): files/slides/lecture18_bellmanford_floydwarshall.pptx
+    slides (pdf): files/slides/lecture18_bellmanford_floydwarshall.pdf 
+    annotated slides (pdf): files/slides/lecture18_bellmanford_floydwarshall_11am.pdf 
+    
+2023-03-30:
+    slides (pptx): files/slides/lecture19_seamcarving.pptx
+    slides (pdf): files/slides/lecture19_seamcarving.pdf
+    annotated slides (pdf): files/slides/lecture19_seamcarving_2pm.pdf
+    
+2023-04-04:
+    slides (pptx): files/slides/lecture20_maxflow.pptx
+    slides (pdf): files/slides/lecture20_maxflow.pdf
+    annotated slides (11am): files/slides/lecture20_maxflow_11am.pdf
+    annotated slides (2pm): files/slides/lecture20_maxflow_2pm.pdf
+    
+2023-04-06:
+    slides (pptx): files/slides/lecture21_reductions.pptx
+    slides (pdf): files/slides/lecture21_reductions.pdf
+    
+2023-04-11:
+    slides (pptx): files/slides/lecture22_reductions2.pptx
+    slides (pdf): files/slides/lecture22_reductions2.pdf
+    
+2023-04-13:
+    slides (pptx): files/slides/lecture23_lowerbounds.pptx
+    slides (pdf): files/slides/lecture23_lowerbounds.pdf
+    
+2023-04-18:
+    slides (pptx): files/slides/linear_regression.pptx
+    slides (pdf): files/slides/linear_regression.pdf
+    
+2023-04-20:
+    slides (pptx): files/slides/decision_trees.pptx
+    slides (pdf): files/slides/decision_trees.pdf
+    
+2023-04-25:
+    slides (pptx): files/slides/decision_trees_kmeans.pptx
+    slides (pdf): files/slides/decision_trees_kmeans.pdf
+    
+2023-04-27:
+    slides (pptx): files/slides/kmeans_reinforcement.pptx
+    slides (pdf): files/slides/kmeans_reinforcement.pdf

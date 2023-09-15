@@ -1,0 +1,254 @@
+Special Dates:
+  Courses begin: 2023-09-27
+  Courses end: 2023-12-08
+  Veterans Day: 2023-11-10
+  Thanksgiving Day: 2023-11-23
+  Native American Heritage Day: 2023-11-24
+  Final Exam: 2023-05-11
+
+meta:
+  timezone: America/New_York
+  name: Algorithms
+  lecture exam: true
+  home: https://www.cs.virginia.edu/~njb2b/cs3100/s23/
+  final:
+    start: 2023-05-09 10:30:00
+    duration: 180
+    room: NA
+
+sections:
+  Brunelle:
+    type: lecture
+    room: Gilmer 301
+    days: [Monday, Wednesday, Friday]
+    start: 14:00:00
+    duration: 50
+  Lab:
+    type: section
+    room: Various
+    days: [Thursday]
+    start: various
+    duration: 75
+
+labs:
+    days: [Thursday]
+
+
+lectures:
+    - Welcome
+
+reading:
+    Graphs Introduction, BFS:
+        - "CLRS Ch. 22.1-22.2"
+    Algorithm analysis and Asymptotics:
+        - "CLRS ch.3 all"
+    DFS, Topological Sort:
+        - "CLRS ch. 22.3-22.4"
+    Connected Components, Dijkstra:
+        - "CLRS ch. 22.5, 24.3"
+    Divide and Conquer, Recurrences:
+        - "CLRS ch.4 all"
+    Tree Method, Karatsuba:
+        - "ch.4 all"
+    Master Theorem, Closes Pair:
+        - "CLRS 33.4"
+    Strassens, Quickselect:
+        - "CLRS ch.4.2 and CLRS ch. 9 all"
+    Dynamic Programming part 1:
+        - "CLRS 15.1, 15.2, 15.3"
+    Dynamic Programming part 1:
+        - "CLRS 15.4"
+    Greedy part 1:
+        - "CLRS 16.1, 16.2"
+    Greedy part 2:
+        - "CLRS 16.3"
+    Graphs, MST:
+        - "CLRS 22.1, ch. 23 all"
+    Dijkstras, BFS, DFS:
+        - "CLRS 22.2, 22.3, 24.1, 24.2, 24.3, 25.2"
+    Maxflow/Mincut:
+        - "CLRS 26.1, 26.2"
+    Reductions:
+        - "CLRS 26.3"
+    NP-Completeness part 1:
+        - "CLRS ch. 34 all"
+    NP-Completeness part 2:
+        - "CLRS ch. 34 all"
+
+assignments:
+    ".groups":
+        quiz:
+            portion: "40"
+        programming:
+            portion: "30"
+            drop: 2
+        written:
+            portion: "30"
+            
+    PA0 Getting Started:
+        group: programming
+        due: 2023-01-26 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'        
+            
+    PA1 Graphs:
+        group: programming
+        due: 2023-02-09 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+        
+    PA2 Graphs:
+        group: programming
+        due: 2023-02-16 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+       
+    PA3 Divide and Conquer:
+        group: programming
+        due: 2023-02-23 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+    
+    PA4 Divide and Conquer:
+        group: programming
+        due: 2023-03-02 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+        
+    PA5 Greedy:
+        group: programming
+        due: 2023-03-21 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+    
+    PA6 Greedy:
+        group: programming
+        due: 2023-03-28 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+
+    PA7 DP:
+        group: programming
+        due: 2023-04-04 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+    
+    PA8 DP:
+        group: programming
+        due: 2023-04-11 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+        
+    PA8 Reductions:
+        group: programming
+        due: 2022-04-06 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+    
+    PA9 Reductions:
+        group: programming
+        due: 2023-04-18 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+
+    PA10 ML:
+        group: programming
+        due: 2023-05-02 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+        
+    PS1 Graphs:
+        group: written
+        due: 2023-02-21 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'
+        
+    PS2 Divide and Conquer:
+        group: written
+        due: 2023-03-16 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'
+
+    PS3 Greedy:
+        group: written
+        due: 2023-03-30 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'
+        
+    PS4 DP:
+        group: written
+        due: 2023-04-13 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'
+    
+    PS5 Reductions:
+        group: written
+        due: 2023-04-27 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'
+        
+    PS6 P vs NP:
+        group: written
+        due: 2022-04-25 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'
+        
+    Q1 Graphs:
+        group: written
+        due: 2023-02-28 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'
+        
+    Q2 Divide and Conquer:
+        group: written
+        due: 2023-03-23 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'
+
+    Q3 greedy:
+        group: written
+        due: 2023-04-06 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'
+        
+    Q4 DP:
+        group: written
+        due: 2023-04-20 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'
+    
+    Q5 Reductions:
+        group: written
+        due: 2023-05-09 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'
+        
+    Q6 ML:
+        group: written
+        due: 2022-05-09 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'
