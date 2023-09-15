@@ -35,7 +35,33 @@ labs:
 
 
 lectures:
-    - Intro
+    - Intro; ADTs; Stacks & Queues
+    - Algorithm Analysis 1
+    - Algorithm Analysis 2
+    - Priority Queues 1 (ADT)
+    - Priority Queues 2 (Binary Heap)
+    - Algorithm Analysis 3
+    - Dictionaries 1 (ADT & Binary Search Trees)
+    - Dictionries 2 (AVL Trees)
+    - Dictionaries 3 (B-Trees)
+    - Dictionaries 4 (B-Trees cont.)
+    - Dictionaries 5 (Hashing)
+    - Dictionaries 6 (Hashing cont.)
+    - Sorting 1 (Comparison Sorting)
+    - Sorting 2 (Beyond Comparison Sorting)
+    - Graphs 1 (Intro to Graphs)
+    - Graphs 2 (Traversals)
+    - Graphs 3 (Shortest Path)
+    - Parallelism 1 (Fork-Join)
+    - Parallelism 2 (Analysis)
+    - Parallelism 3 (Sorting)
+    - Synchronization 1 (Concurrency & Mutual Exclusion)
+    - Synchronization 2 (Race Conditions)
+    - Synchronization 3 (Race Conditions & Deadlock)
+    - Graphs 4 (Topological Sort)
+    - Graphs 5 (MST)
+    - P NP NP-Complete 1
+    - P NP NP-Complete 2
 
 labs:
     - Lab 1
