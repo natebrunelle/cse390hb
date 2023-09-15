@@ -78,10 +78,12 @@ Gradescope                  Homework submission and grading
 
 # What to expect in this course
 
-In the opinion of this instructor, an algorithms course should serve to:
+In the opinion of this instructor, a data structures course should serve to:
 
-1. introduce students 
-Since developing a skill is a much more substantial undertaking than understanding prior work of others, the majority of your homework time will be spent on developing that skill. This will be at times uncomfortable, occasionally frustrating, but hopefully always fun and valuable in retrospect. I have a few guidelines/suggestions for how you can get the most out of this course:
+1. introduce students to common, important, or otherwise noteworthy data structures
+1. provide opportunity for students to develop skill in selecting, using, and modifying data structures.
+
+Since developing a skill is a much more substantial undertaking than understanding prior work of others, a substantial portion of your homework time will be spent on developing that skill. This will be at times uncomfortable, occasionally frustrating, but hopefully always fun and valuable in retrospect. I have a few guidelines/suggestions for how you can get the most out of this course:
 
 1. Follow the instructions in the assignments. I've been a student before, and I understand the dizzying experience of learning something brand new. For this reason, I do not ask trick questions that are specifically intended to mislead you. If a question seems misleading, then most likely either there's something about the instructions or the content that you're missing, or else I made an error in drafting the assignment. In either case, the best thing to do is ask!
 1. Think carefully and precisely: While I will not purposefully mislead you, I may ask questions that are specifically designed to expose and correct a misleading intuition or common misconception.
@@ -93,7 +95,7 @@ Since developing a skill is a much more substantial undertaking than understandi
 
 Instructor and TA office hours will be available to assist you in understanding course concepts and applying those concepts to your assignments. Office hours should never be used as a substitute for your own learning or for your own earnest effort. As such, the amount of assistance the course staff will provide should correlate with the amount of effort you've made and understanding you possess. In short, the more effort and understanding you have demonstrated before arriving to office hours, the more precise the help we will provide. If you're just beginning to solve the problem or are missing some concept then the help given will be more conceptual in nature.
 
-The CS department allocation to a non-lab course (like this one) is 20 minutes of TA time per week per student. This accounts for all time the TA spends on any course activity (office hours, grading, staff meetings, personal prep, etc.), so TAs have less that 20 minutes per student to spend in office hours. Because this resource can be scarce, here are some expectations and tips for managing office hours:
+The Allen School's allocation of TA support for this course is 20 minutes of TA time per week per student. This accounts for all time the TA spends on any course activity (office hours, grading, staff meetings, personal prep, etc.), so TAs have less that 20 minutes per student to spend in office hours. Because this resource can be scarce, here are some expectations and tips for managing office hours:
 
 -  When there is a queue in office hours, we will limit each student-TA interaction to addressing just a single question. To ask multiple questions you will need to re-enter the queue. The reason for this policy is to help as many students as quickly as possible, since after a first round of assistance you will have an opportunity to make more progress on your own before your turn comes up again. I recommend arriving prepared with the question that is your biggest "blocker" to progress.
 - When asking for help with debugging a programming assignment it will be best if you come prepared with test cases where your code gives the correct answer, and test cases where it gives the incorrect answer. This demonstrates substantial understanding of what your code is supposed to do and what your code is currently doing, and also gives the TA a lot of information to go off of, so you're more likely to receive more specific help.
