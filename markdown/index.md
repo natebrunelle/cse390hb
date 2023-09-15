@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home1
 ...
 
 # Course Description
