@@ -4,7 +4,7 @@ here="$(dirname "$(readlink -m "$0")")/"
 self="$(readlink -m "$0")"
 cd "$here"
 target="$(readlink -f "$here""/demo_site/")/"
-#remote=njb2b@portal.cs.virginia.edu:public_html/cs3100/s2023
+remote=brunelle@tricycle.cs.washington.edu:/cse/web/courses/cse332/23au/demo_site
 mkdir -p "$target"files
 
 #if ls ~/.local/pandoc*/bin/pandoc
@@ -133,5 +133,5 @@ done
 
 
 
-#rsync --update --compress --recursive --times --verbose -e ssh "$target" "$remote"
+rsync --update --compress --recursive --times --verbose -e ssh "$target" "$remote"
 
