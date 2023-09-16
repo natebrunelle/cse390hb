@@ -78,7 +78,7 @@ title: Autumn 2023 Schedule
 }
 .agenda div.events { display: table-cell; vertical-align: middle; }
 
-.assignment:before { background: purple; content: "due: "; font-size: 70.7%; }
+.assignment:before { background: rgba(155,77,227,0.25); content: "due: "; font-size: 70.7%; }
 small { opacity: 0.5; }
 .special, .exam { background: rgba(255,127,0,0.25); opacity: 0.75; }
 span.date { font-family:monospace; }
