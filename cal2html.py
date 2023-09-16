@@ -90,7 +90,7 @@ def raw2cal(data, links=None):
                 )):
                     ans.append({
                         'section':sec,
-                        'title':'Exam',
+                        'title':'Midterm Exam',
                         "kind":'exam',
                         "from":dt + timedelta(0,ent['start']),
                         "to":dt + timedelta(0,ent['start'] + 60*ent['duration']),
