@@ -6,7 +6,7 @@ title: Syllabus
 
 ## Meetings
 
-In Person lectures will be held in Gates (i.e. CSE2) room G20 at 12:30pm-1:20pm
+In Person lectures will be held in Gates Center (i.e. CSE2) room G20 at 12:30pm-1:20pm
 
 Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are automatically posted to Canvas under the Panopto tool.
 
@@ -16,7 +16,7 @@ Lecture attendance is optional, but strongly encouraged. In the event you are un
 |        | Instructor | TAs |
 |--------|------------|-----|
 | Name | Nathan Brunelle | TBA |
-| Location | CSE 434 | TBA |
+| Location | Allen Center (CSE) 434 | TBA |
 | Office Hours | TBD | TBA |
 | Phone |  | (none) |
 | Email | <a href="mailto:brunelle@cs.washington.edu?subject=CSE332">brunelle@cs.washington.edu</a> | use Ed Discussion Board |
@@ -30,12 +30,12 @@ Our TAs are students too, with duties and work outside of their TAing. Please do
 
 ## Readings
 
-There is no required textbook for this class. If you would like to consult a text to reinforce your learning, we recommend:
-
-*Introduction to Algorithms*, Third Edition by Cormen, et. al. (ISBN 0262033844).
-UVA Library makes a digital version of our textbook [available online](https://search.lib.virginia.edu/catalog/u6757775).
-
-Readings corresponding to each lecture will be posted on the course schedule.
+(Optional) *Data Structures and Algorithm Analysis in Java 3rd Ed.*, Mark Allen Weiss,
+Addison Wesley: 2012, ISBN-10: 0132576279. Our course calendar will list sections of the textbook
+that are most relevant to the topic discussed in class that day. You may find the textbook useful to
+clarify topics and find more examples as well as to examine Java implementations of the data
+structures and algorithms discussed during lecture. We will not be assigning problems from the
+textbook. We will use a set of free on-line notes for the material on parallelism and concurrency.
 
 
 ## Lectures
@@ -66,28 +66,22 @@ Exams                       40%     Midterm weighted 15%, Final weighted 25%
 
 This numerical calculation is to be considered a **guideline** on your score in the course. Final grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials.
 
+## Extra Credit
+
+We will keep track of any extra features you implement for programming projects
+(the "Above and Beyond" parts). You won’t see these affecting your grades for individual projects, but
+they will be accumulated over all projects and used to bump up borderline grades at the end of the
+quarter. The bottom line is that these will only have a small effect on your overall grade, most notably a much smaller effect that the required portions of the assignments. For this reason, I suggest that you consider the extra credit to be purely **extra**, i.e. do not do extra credit in liueue of required work in this class or any of your other classes. 
+
 ## Deadlines
 
-Here are non-exhaustive lists of pre-approved and pre-declined reasons for an extension.
+**Exercises** may not be turned in late. (Although when calculating final grades, we
+will drop your lowest two exercise scores.) 
 
-The following reasons are NOT sufficient justification for an extension:
-
-- Congestion of assignments/exams/projects/etc. with other courses
-- Confusion on course material
-- Mild illness
-- Job Interviews (tasks are released with sufficient lead time that you can plan around it)
-- Club activities or non-varsity sports
-- Non-working code
-- Most other foreseeable circumstances
-
-The following reasons would be acceptable justification for an extension:
-
-- Official Accommodation
-- Severe Illness
-- Personal or Family Tragedy
-- Legal Obligations
-- Varsity Athletics Competitions
-- Religious Observances
+You you are four late days that may be used
+to gain an extra 24 hours for a programming project (or checkpoint). If you have used up your late days, a penalty of
+10% per day will be assessed. Programming projects will not be accepted beyond 48 hours from
+the original due date.
 
 ## Regrades
 
@@ -96,10 +90,6 @@ We acknowledge that professors and TAs are people (glad to get that confession o
 Please only submit a regrade request if you believe the rubric was misapplied to your submission or if there was a keying error for the task. In the case of a misapplication of the rubric, identify specifically what in your submission demonstrates the misapplication and suggest how you believe the rubric should be correctly applied. In the case of a keying error, state and justify why your believe your answer should be considered correct. Disagreement with the existance or weighting of a rubric item is not considered a valid reason for a regrade request.
 
 # Miscellanea
-
-## Pledge
-
-All students of CS3100 are expected to abide by the [course pledge](pledge.html).
 
 ## Professionalism
 
@@ -115,25 +105,25 @@ Lack of professionalism has an overall detrimental impact on our community of le
 ## Honesty
 
 I always hope everyone will behave honestly.
-I know we all are tempted to do what we ought not;
+I know we all are sometimes tempted by the easy path that dishonesty can enable;
 if you do something you regret, the sooner you tell me the sooner (and more leniently) we can correct it.
 
 ### No plagiarism (nor anything like it)
 
 For Exercises and Programming Projects you may use external materials with the following restrictions:
 
-- You must attempt each task individually first, other resources should not be consulted until you are "stuck".
+- You must attempt each task individually first, you should not consult other resources until you are "stuck".
 - You must understand everything you submit. Do not submit anything you could not explain to a member of the course staff.
 - You **may not** collaborate or seek help from any interactive source except for members of the course staff or other currently-enrolled CSE332 students (this means you may not seek assistance from former CSE332 students, online forums like Chegg or Stackoverflow, or generative AI systems like Chat-GPT).
-- You **must** cite any and every source you consult beyond officially-provided materials (see list above). Included in your citation, you must identify which components of your submission came from each source (it will be understood that content with no citation is your/your cohort's own exclusive work). Your collaborators are considered to be sources, and so should be cited. An example citation might look like: "I collaborated with Brett Wortzman on the implementation of the peek method, I consulted \url{https://www.w3schools.com/java/java_variables_print.asp} for help with java print syntax, Miya Natsuhara helped me to debug the for loop that begins on line 107 of my code."
-- All one-on-one collaborations with classmates must be "whiteboard only" (defined below).
+- You **must** cite any and every source you consult beyond officially-provided materials (i.e. the optional course texbook, the course webpage, the course staff, or any resources provided through official course channels). Included in your citation, you must identify which components of your submission came from each source (it will be understood that content with no citation is your own exclusive work). Your collaborators are considered to be sources, and so should be cited. An example citation might look like: "I collaborated with Brett Wortzman on the implementation of the peek method, I consulted \url{https://www.w3schools.com/java/java_variables_print.asp} for help with java print syntax, Miya Natsuhara helped me to debug the for loop that begins on line 107 of my code."
+- All collaborations with classmates must be "whiteboard only" (defined below).
 - Do not seek "hints" or entire solutions to the problems. Limit your searching to background information only. (For example, do not consult a GitHub repository posted by a former student.)
 
 #### Whiteboard Only Collaboration
 
 "Whiteboard Only" collaboration is meant to convey the type of discussion where participants gather around a whiteboard to solve a problem together, without taking any notes from their discussion, and then erasing the whiteboard before they disperse. 
 
-In particular, you may discuss tasks and their solutions, but the only thing you may take away from your discussion is your brain. This means you may not produce any records or artifacts from your collaborations, including: notes, screenshots, photos, figures, audio/video recordings, documents (inluding google docs), links, or any other digital or tangible thing. Nor may you share any files, links, etc. with other students outside of a collaboration session. Any substantially similar expression of the same solution can only occur if collaboration extends beyond "whiteboard only", and so will be considered as evidence of a policy violation.
+In particular, you may discuss tasks and their solutions, but the only thing you may take away from your discussion is your brain. This means you may not produce any records or artifacts from your collaborations, including: notes, screenshots, photos, figures, code, audio/video recordings, documents (inluding google docs), links, or any other digital or tangible thing. Nor may you share any files, links, etc. with other students outside of a collaboration session. Any substantially similar expression of the same solution can only occur if collaboration extends beyond "whiteboard only", and so will be considered as evidence of a policy violation.
 
 
 ## Personal accommodations
