@@ -169,21 +169,21 @@ assignments:
     
     Project 2:
         group: programming
-        due: 2023-11-10 23:59:00
+        due: 2023-11-13 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
-    PA7 DP:
+    P3 Checkpoint 1:
         group: programming
-        due: 2023-04-04 23:59:00
+        due: 2023-11-17 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
-    PA8 DP:
+    Project 3:
         group: programming
-        due: 2023-04-11 23:59:00
+        due: 2023-12-04 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
