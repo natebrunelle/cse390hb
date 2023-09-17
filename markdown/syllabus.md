@@ -52,7 +52,7 @@ All assignments will be posted and submitted either in class (for exams) or on G
 
 - **Exercises**: These are intended to help you to gain experience and familiarity with course concepts. These will sometimes be written assignments (in which case a typed up or neatly hand-written pdf submission is acceptable) or may be programming tasks.  
 - **Programming Projects**: These are larger-scale programming tasks and are intended to give you experience in applying the course concepts in a more open-ended programming context.
-- **Exams**: These are timed and proctored in-class and close-resource exams.These are intended to evaluate the quality of your learning of the most important topics in the course, and to motivate you to study, review, and retroactively reflect upon all that you've learned.
+- **Exams**: These are timed and proctored in-class and close-resource exams.These are intended to evaluate the quality of your learning of the most important topics in the course, and to motivate you to study, review, and retroactively reflect upon all that you've learned. Lists of topics and links to past exams will be provided in advance of each exam.
 
 # Grading
 
