@@ -71,7 +71,7 @@ This numerical calculation is to be considered a **guideline** on your score in 
 We will keep track of any extra features you implement for programming projects
 (the "Above and Beyond" parts). You won’t see these affecting your grades for individual projects, but
 they will be accumulated over all projects and used to bump up borderline grades at the end of the
-quarter. The bottom line is that these will only have a small effect on your overall grade, most notably a much smaller effect that the required portions of the assignments. For this reason, I suggest that you consider the extra credit to be purely **extra**, i.e. do not do extra credit in liueue of required work in this class or any of your other classes. 
+quarter. The bottom line is that these will only have a small effect on your overall grade, most notably a much smaller effect that the required portions of the assignments. For this reason, I suggest that you consider the extra credit to be purely **extra**, i.e. do not do extra credit in lieu of required work in this class or any of your other classes. 
 
 ## Deadlines
 
@@ -87,7 +87,7 @@ the original due date.
 
 We acknowledge that professors and TAs are people (glad to get that confession off of my chest!), and people make mistakes. For this reason, you are able to request regrades on assignments within either one week of your grade being returned or by 11:59pm on Dec 12, which ever date is sooner. 
 
-Please only submit a regrade request if you believe the rubric was misapplied to your submission or if there was a keying error for the task. In the case of a misapplication of the rubric, identify specifically what in your submission demonstrates the misapplication and suggest how you believe the rubric should be correctly applied. In the case of a keying error, state and justify why your believe your answer should be considered correct. Disagreement with the existance or weighting of a rubric item is not considered a valid reason for a regrade request.
+Please only submit a regrade request if you believe the rubric was misapplied to your submission or if there was a keying error for the task. In the case of a misapplication of the rubric, identify specifically what in your submission demonstrates the misapplication and suggest how you believe the rubric should be correctly applied. In the case of a keying error, state and justify why you believe your answer should be considered correct. Disagreement with the existance or weighting of a rubric item is not considered a valid reason for a regrade request.
 
 # Miscellanea
 
@@ -151,7 +151,7 @@ I am dedicated to providing a safe and equitable learning enironment for all stu
 1. Power-based violence is not to be tolerated
 1. Everyone has a responsibility to do their part to maintain a safe community in the classroom and on campus.
 
-f you or someone you know has been affected by power-based personal violence, I encourage you to use Safecampus as a resource. As your professor and a human, know that I care about you and your well-being and stand ready to provide support and resources to the best of my ability. 
+If you or someone you know has been affected by power-based personal violence, I encourage you to use Safecampus as a resource. As your professor and a human, know that I care about you and your well-being and stand ready to provide support and resources to the best of my ability. 
 
 Additionally, if at any point you are made to feel uncomfortable, disrespected, or excluded by a staff
 member or fellow student, please report the incident so that we may address the issue and maintain a
@@ -166,7 +166,7 @@ People forget things and make mistakes.
 Bad days coincide with due dates.
 Etc.
 
-If you believe that circumstances warrant an change in deadline, a second chance, or some other accommodation in order to more accurately synchronize grade with knowledge, come talk to me and we'll resolve the situation as best we can.
+If you believe that circumstances warrant a change in deadline, a second chance, or some other accommodation in order to more accurately synchronize grade with knowledge, come talk to me and we'll resolve the situation as best we can.
 
 If you are feeling overwhelmed, stressed, or isolated, there are many individuals here
 who are ready and wanting to help. The University of Washington Counseling Center offers short-term counseling students and crisis service for urgent situations. Call 206-543-1240 (or 866-427-4747 for after hours and weekend
