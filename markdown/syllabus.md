@@ -15,7 +15,7 @@ Lecture attendance is optional, but strongly encouraged. In the event you are un
 
 |        | Instructor | TAs |
 |--------|------------|-----|
-| Name | Nathan Brunelle | [profiles](staff.html) |
+| Name | Nathan Brunelle | [Profiles](staff.html) |
 | Location | Allen Center (CSE) 434 | [See Calendar](oh.html) |
 | Office Hours | MWF 1:30-3:00 | [See Calendar](oh.html) |
 | Phone |  | (none) |
