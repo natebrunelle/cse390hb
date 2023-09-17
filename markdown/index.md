@@ -56,15 +56,14 @@ You should take this course if and only if
 
 This course will assume competency with Java programming (covered in the CSE12X or CSE14X sequence) and knowledge of several topics from Discrete Math (covered in CSE 311)
 
-In particular, we assume knowledge of (with recommended resources for review):
+In particular, we assume knowledge of:
 
 - Logarithms and identities ([Log rules](https://en.wikipedia.org/wiki/List_of_logarithmic_identities))
-- Sets ([CS2102 Sets Primer](https://www.cs.virginia.edu/~njb2b/cs2120/f2021/sets.html))
-- Functions ([Section 4.3 of this text](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/files/mcs.pdf))
-- Proof Techniques ([CS2102 Proof Techniques](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/techniques-q8.html))
-- Proof Styles, we'll mostly be using "prose proofs" ([CS2102 Proof style guide](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/proofs.html))
-- Logic and Notation ([CS2102 Glossary of logical terms](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/glossary.html))
-- Recursion ([CS2100](https://markfloryan.github.io/dsa1/slides/04-trees.html#/3/1), [CS2110 part 1](https://deternitydx.github.io/uvacs4102/pdfs/31-recursion.pdf), [CS2110 part 2](https://deternitydx.github.io/uvacs4102/pdfs/32-recursion.pdf))
+- Sets
+- Functions 
+- Proof Techniques
+- Logic and Notation
+- Recursion
 
 # Platforms
 
@@ -74,6 +73,7 @@ This Website                Central repository of course information and content
 Canvas                      Linking to all of the other tools, lecture recordings
 Ed Message Board            Course content and policy questions
 Gradescope                  Homework submission and grading
+Gitlab                      Project releases and submission on Gradescope
 
 
 # What to expect in this course
@@ -98,7 +98,6 @@ Instructor and TA office hours will be available to assist you in understanding 
 The Allen School's allocation of TA support for this course is 20 minutes of TA time per week per student. This accounts for all time the TA spends on any course activity (office hours, grading, staff meetings, personal prep, etc.), so TAs have less that 20 minutes per student to spend in office hours. Because this resource can be scarce, here are some expectations and tips for managing office hours:
 
 -  When there is a queue in office hours, we will limit each student-TA interaction to addressing just a single question. To ask multiple questions you will need to re-enter the queue. The reason for this policy is to help as many students as quickly as possible, since after a first round of assistance you will have an opportunity to make more progress on your own before your turn comes up again. I recommend arriving prepared with the question that is your biggest "blocker" to progress.
-- When asking for help with debugging a programming assignment it will be best if you come prepared with test cases where your code gives the correct answer, and test cases where it gives the incorrect answer. This demonstrates substantial understanding of what your code is supposed to do and what your code is currently doing, and also gives the TA a lot of information to go off of, so you're more likely to receive more specific help.
 - Work-in-progress code is often difficult for a third-party to read. Be prepared to help the course staff member to understand your approach.
 - For quick clarification questions, consider using the Ed Message Board first. Your question may already be answered there, and even if not then you may get an answer faster compared to going to office hours.
 

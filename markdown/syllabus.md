@@ -169,7 +169,5 @@ Etc.
 If you believe that circumstances warrant an change in deadline, a second chance, or some other accommodation in order to more accurately synchronize grade with knowledge, come talk to me and we'll resolve the situation as best we can.
 
 If you are feeling overwhelmed, stressed, or isolated, there are many individuals here
-who are ready and wanting to help. The Student Health Center offers Counseling and Psychological
-Services (CAPS) for all UVA students. Call 434-243-5150 (or 434-972-7004 for after hours and weekend
-crisis assistance) to get started and schedule an appointment. If you prefer to speak anonymously and
-confidentially over the phone, Madison House provides a HELP Line at any hour of any day: 434-295-8255.
+who are ready and wanting to help. The University of Washington Counseling Center offers short-term counseling students and crisis service for urgent situations. Call 206-543-1240 (or 866-427-4747 for after hours and weekend
+crisis assistance) to get started and schedule an appointment.
