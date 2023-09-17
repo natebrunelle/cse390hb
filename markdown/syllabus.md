@@ -78,7 +78,7 @@ quarter. The bottom line is that these will only have a small effect on your ove
 **Exercises** may not be turned in late. (Although when calculating final grades, we
 will drop your lowest two exercise scores.) 
 
-You you are four late days that may be used
+You are allotted four late days that may be used
 to gain an extra 24 hours for a programming project (or checkpoint). If you have used up your late days, a penalty of
 10% per day will be assessed. Programming projects will not be accepted beyond 48 hours from
 the original due date.
