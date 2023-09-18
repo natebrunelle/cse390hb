@@ -11,6 +11,8 @@ title: Tasks
 
 Links to projects will be posted here as they become available.
 
+To complete the projects you will need to set up your CSE332 programming environment, which is [outlined in this handout](https://docs.google.com/document/d/1CWj02e1xjJY0J3CG_1tDxiOlDMnd2GU9PKmS5sskfXU/edit?usp=sharing).
+
 ## Project 1
 
 You can see the description (specification) of project 1 [here](https://docs.google.com/document/d/19Hg9mZngymc2_bSqf4y5U5FcgrqBLs8dux5Eo7ucMNM/edit?usp=sharing).
