@@ -12,16 +12,15 @@
 2023-09-29:
     slides(pptx): files/slides/lecture2_analysis1.pptx
     slides(pdf): files/slides/lecture2_analysis1.pdf
+    slides(inked): files/slides/lecture2_analysis1_inked.pdf
       
 2023-10-02:
     slides (pptx): files/slides/lecture3_analysis2.pptx
     slides (pdf): files/slides/lecture3_analysis2.pdf
 
-2023-02-02:
-    slides(pdf): files/slides/lecture5_dijkstra.pdf
-    slides(pptx): files/slides/lecture5_dijkstra.pptx
-    annotated slides (11am): files/slides/lecture5_dijkstra_11am.pdf
-    annotated slides (2pm): files/slides/lecture5_dijkstra_2pm.pdf
+2023-10-04:
+    slides(pdf): files/slides/lecture4_analysis2_pqs.pdf
+    slides(pptx): files/slides/lecture4_analysis2_pqs.pptx
     
 2023-02-07:
     slides (pptx): files/slides/lecture6_divide_and_conquer.pptx
