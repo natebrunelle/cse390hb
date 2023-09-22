@@ -5,7 +5,9 @@ title: Tasks
 
 # Exercises
 
- Links to exercises will be posted here as they become available.
+## Exercise 1
+
+Exercise 1 asks you to perform asymptotic running time analysis on given Java code. You can find Exercise 1 on Gradescope.
 
 # Projects
 
