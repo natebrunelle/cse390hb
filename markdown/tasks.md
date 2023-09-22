@@ -9,6 +9,14 @@ title: Tasks
 
 Exercise 1 asks you to perform asymptotic running time analysis on given Java code. You can find Exercise 1 on Gradescope.
 
+## Exercise 2
+
+Exercise 2 asks you to manually manipulate heaps. You can find Exercise 2 on Gradescope.
+
+## Exercise 3
+
+Exercise 3 asks you to solve recurrence relations, you can find Exercise 3 on Gradescope.
+
 # Projects
 
 Links to projects will be posted here as they become available.
