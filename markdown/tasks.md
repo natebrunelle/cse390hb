@@ -37,7 +37,7 @@ You can find the code for [project 1 in this gitlab repository](https://gitlab.c
 
 ## Project 2
 
-
+You can see the description (specification) of project 1 [here](https://docs.google.com/document/d/1M9jNReC99AQR8vOzkEqvb6cKQXYuuyFQcMdQxtOg124/edit?usp=sharing)
 
 You can find the code for [project 2 in this gitlab repository](https://gitlab.cs.washington.edu/cse332-23au/p2-public). This code is also in a gitlab repositorty we created for you at `gitlab.cs.washington.edu/cse332-23au-students/p1-your netid`. You will submit this repository to gradescope for your project submissions (checkpoints and final submission).
 
