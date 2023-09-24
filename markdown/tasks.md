@@ -41,6 +41,7 @@ You can see the description (specification) of project 1 [here](https://docs.goo
 
 You can find the code for [project 2 in this gitlab repository](https://gitlab.cs.washington.edu/cse332-23au/p2-public). This code is also in a gitlab repositorty we created for you at `gitlab.cs.washington.edu/cse332-23au-students/p1-your netid`. You will submit this repository to gradescope for your project submissions (checkpoints and final submission).
 
+[Post Checkpoint 1 Surver](https://forms.gle/sV123vWUeUTdWRKi8)
 
 # Exams
 
