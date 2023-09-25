@@ -17,6 +17,14 @@ Exercise 2 asks you to manually manipulate heaps. You can find Exercise 2 on Gra
 
 Exercise 3 asks you to solve recurrence relations, you can find Exercise 3 on Gradescope.
 
+## Exercise 4
+
+Exercise 4 asks you to perform insertions into AVL Trees and B Trees, you can find Exercise 4 on Gradescope.
+
+## Exercise 5
+
+Exercise 5 is a programming assignment that asks you to write Java code which checks whether a given tree is a valid AVL tree. We have created a gitlab repository for you containing the description and starter code for this exercise. You will submit on Gradescope.
+
 # Projects
 
 Links to projects will be posted here as they become available.
