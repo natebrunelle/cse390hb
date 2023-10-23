@@ -55,4 +55,61 @@ You can find the code for [project 2 in this gitlab repository](https://gitlab.c
 
 # Exams
 
-Resources for exams will be posted here as they become available.
+## Exam 1
+
+The Midterm Exam will be held on Monday October 30 during our normal lecture session (12:30-1:20pm in CSE2 G20).
+
+### Policies
+
+1. Closed book, closed notes
+1. No calculators, cell phones, or other electronic devices allowed.
+1. No writing after time is called, make sure you put your name on your paper first.
+1. You will be provided a reference sheet during the exam (will be linked here).
+
+### Content
+
+The exam will cover all material from the beginning of the quarter up through hashing. This includes:
+
+- Abstract Data Types and Data structures:
+	- Their Definitions and Differences
+	- Examples
+- Stacks and Queues:
+	- Array and Linked List implementations and running times
+	- ADT Operations
+- Asymptotic Complexity:
+	- Definition of big-oh, big-omega, big-theta
+	- Identifying whether f(n) belongs to O(g(n)) (or big-omega, big-theta)
+	- Finding constants c and n0 to demonstrate this
+	- Identifying running times (best case and worst case) of example code
+- Recurrence Relations:
+	- Given a recurrence relation, solve it to closed form
+- Priority Queues:
+	- ADT operations (insert, findMin, deleteMin, increaseKey, decreaseKey, remove)
+	- The Heap data structure (including the heap property, complete tree, and buildHeap)
+- Tries:
+	- Find, insert, and delete operations
+- Trees:
+	- Definitions of height, branching factor
+	- Preorder, Inorder, Postorder traversals of binary trees
+- Dictionaries:
+	- ADT operations
+	- Binary Search Trees: Definition, algorithms and running times of dictionary operations
+	- AVL Trees: Definition, algorithms and running times of dictionary operations (including the definition of rotations and when to do them). The delete operation will NOT be covered.
+	- B-Trees: Definition and motivation, algorithms and running times of dictionary operations.
+
+### Past Exams
+
+We have provided links to past exams below. Since all past exams were given by a different instructor, be advised that the question style, length, and difficulty may be different this quarter. I recommend that you mostly use these exams to evaluate your preparedness rather than as a study guide.
+
+- (CSE 332 23wi Midterm)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-23wi.pdf], (Solution)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-23wi-soln.pdf]
+- (CSE 332 22su Midterm)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-22su.pdf], (Solution)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-22su-soln.pdf]
+- (CSE 332 19au Midterm)https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-19au.pdf[], (Solution)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-19au-soln.pdf]
+- (CSE 332 19wi Midterm)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-19wi.pdf], (Solution)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-19wi-soln.pdf]
+- (CSE 332 18au Midterm)https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-18au.pdf[], (Solution)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-18au-soln.pdf]
+- (CSE 332 18wi Midterm)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-18wi.pdf], (Solution)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-18wi-soln.pdf]
+- (CSE 332 17au Midterm)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-17au.pdf], (Solution)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-17au-soln.pdf]
+- (CSE 332 16au Midterm)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-16au.pdf], (Solution)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-16au-soln.pdf]
+- (CSE 332 15wi Midterm)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-15wi.pdf], (Solution)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-15wi-soln.pdf]
+- (CSE 332 14sp Midterm)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-14sp.pdf], (Solution)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-14sp-soln.pdf]
+- (CSE 332 13au Midterm)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-13au.pdf], (Solution)[https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-13au-soln.pdf]
+
