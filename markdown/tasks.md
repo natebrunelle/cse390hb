@@ -33,7 +33,7 @@ To complete the projects you will need to set up your CSE332 programming environ
 
 If you want something to reference regarding java generics, check this out: [java generics reference](https://docs.google.com/document/d/1lfcUxBdtX30n-eLXy51yBwFuGppGaSbc164qIBUB_VY/edit?usp=sharing).
 
-If you have a pesky bug in your code that you're struggling to track down, try following our [debugging guide](file:///C:/Users/nateb/Downloads/https_courses.cs.washington.edu_courses_cse332_23su_handouts_Handouts%20-%20Debugging%20in%20CSE%20332.pdf).
+If you have a pesky bug in your code that you're struggling to track down, try following our [debugging guide](files/debugging_in_cse332.pdf).
 
 At the end of each checkpoint we will have a survey. This is intended just for us to keep up with the overall sentiment of class as a whole, and to reach out and help students who request additional support. It's not required fill out the survey, but doing so will give us more information on how we can better serve you!
 
