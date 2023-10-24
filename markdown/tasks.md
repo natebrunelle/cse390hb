@@ -59,6 +59,8 @@ You can find the code for [project 2 in this gitlab repository](https://gitlab.c
 
 The Midterm Exam will be held on Monday October 30 during our normal lecture session (12:30-1:20pm in CSE2 G20).
 
+An optional review session will be held in CSE2 G20 from 4:30pm-6:00pm on Friday October 27.
+
 ### Policies
 
 1. Closed book, closed notes
