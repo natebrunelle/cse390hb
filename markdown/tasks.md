@@ -68,7 +68,7 @@ The Midterm Exam will be held on Monday October 30 during our normal lecture ses
 
 ### Content
 
-The exam will cover all material from the beginning of the quarter up through hashing. This includes:
+The exam will cover all material from the beginning of the quarter up through ~~hashing~~ B Trees. This includes:
 
 - Abstract Data Types and Data structures:
 	- Their Definitions and Differences
