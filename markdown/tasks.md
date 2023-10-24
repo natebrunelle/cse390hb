@@ -64,7 +64,7 @@ The Midterm Exam will be held on Monday October 30 during our normal lecture ses
 1. Closed book, closed notes
 1. No calculators, cell phones, or other electronic devices allowed.
 1. No writing after time is called, make sure you put your name on your paper first.
-1. You will be provided a reference sheet during the exam (will be linked here).
+1. You will be provided a reference sheet during the exam (this is the [actual exam reference page](files/midterm_reference.pdf).
 
 ### Content
 
