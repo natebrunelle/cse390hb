@@ -75,10 +75,10 @@
     slides (pptx): files/slides/lecture13_hashing2.pptx
     slides (pdf): files/slides/lecture13_hashing2.pdf
 
-2023-03-28:
-    slides (pptx): files/slides/lecture18_bellmanford_floydwarshall.pptx
-    slides (pdf): files/slides/lecture18_bellmanford_floydwarshall.pdf 
-    annotated slides (pdf): files/slides/lecture18_bellmanford_floydwarshall_11am.pdf 
+2023-10-26:
+    slides: https://docs.google.com/presentation/d/1Faw4I2F2Z9sKIDVK-_1FSpH4KD2TghAWDruB1FrzC3M/edit?usp=sharing
+    handout: https://docs.google.com/document/d/1E0zoeP5FRalNixwNMu55cMWCgOQ8wW53QbcgGq8CqXU/edit?usp=sharing
+    solution: https://docs.google.com/document/d/1mcZjOsgl4YYvHgZpyHMksUqz1wxsdGK8uHpw7TdRzSo/edit?usp=sharing
     
 2023-03-30:
     slides (pptx): files/slides/lecture19_seamcarving.pptx
