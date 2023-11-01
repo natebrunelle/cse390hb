@@ -150,7 +150,7 @@ assignments:
         
     P2 Checkpoint 2:
         group: programming
-        due: 2023-11-03 23:59:00
+        due: 2023-11-08 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
@@ -213,7 +213,7 @@ assignments:
         
     EX06:
         group: written
-        due: 2023-11-01 23:59:00
+        due: 2023-11-08 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.pdf'
