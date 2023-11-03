@@ -48,6 +48,7 @@ lectures:
     - Dictionaries 4 (B-Trees cont.)
     - Dictionaries 5 (Hashing)
     - Dictionaries 6 (Hashing cont.)
+    - Ductionaries 7 (Hashing Finale)
     - Sorting 1 (Comparison Sorting)
     - Sorting 2 (Beyond Comparison Sorting)
     - Graphs 1 (Intro to Graphs)
@@ -64,7 +65,6 @@ lectures:
     - Graphs 5 (MST)
     - P NP NP-Complete 1
     - P NP NP-Complete 2
-    - Finale
 
 labs:
     - S01 Intros, P1, Tries
