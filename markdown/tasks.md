@@ -63,6 +63,10 @@ An optional review session will be held in CSE2 G20 from 4:30pm-6:00pm on Friday
 
 Here's a preview of the [cover page of the exam](files/midterm_cover.pdf). You can see the instructions and a per-topic points breakdown!
 
+### Answer Key
+
+You're welcome to view [our answer key](files/cse332-midterm-23au-soln.pdf) for the midterm exam.
+
 ### Policies
 
 1. Closed book, closed notes
