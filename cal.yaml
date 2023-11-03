@@ -38,9 +38,10 @@ lectures:
     - Intro; ADTs; Stacks & Queues
     - Algorithm Analysis 1
     - Algorithm Analysis 2
+    - Algorithm Analysis 3
     - Priority Queues 1 (ADT)
     - Priority Queues 2 (Binary Heap)
-    - Algorithm Analysis 3
+    - Algorithm Analysis 4 (recurrences)
     - Dictionaries 1 (ADT & Binary Search Trees)
     - Dictionries 2 (AVL Trees)
     - Dictionaries 3 (B-Trees)
