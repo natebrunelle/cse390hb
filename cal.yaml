@@ -50,7 +50,8 @@ lectures:
     - Dictionaries 6 (Hashing cont.)
     - Ductionaries 7 (Hashing Finale)
     - Sorting 1 (Comparison Sorting)
-    - Sorting 2 (Beyond Comparison Sorting)
+    - Sorting 2 (Divide and Conquer)
+    - Sorting 3 (Beyond Comparison Sorting)
     - Graphs 1 (Intro to Graphs)
     - Graphs 2 (Traversals)
     - Graphs 3 (Shortest Path)
@@ -61,8 +62,7 @@ lectures:
     - Synchronization 1 (Concurrency & Mutual Exclusion)
     - Synchronization 2 (Race Conditions)
     - Synchronization 3 (Race Conditions & Deadlock)
-    - Graphs 4 (Topological Sort)
-    - Graphs 5 (MST)
+    - Graphs 4 (MST)
     - P NP NP-Complete 1
     - P NP NP-Complete 2
 
