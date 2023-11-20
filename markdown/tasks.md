@@ -59,6 +59,8 @@ You can see the description (specification) of project 3 [here](https://docs.goo
 
 You can find the code for [project 3 in this gitlab repository](https://gitlab.cs.washington.edu/cse332-23au/p3-public). This code is also in a gitlab repositorty we created for you at `gitlab.cs.washington.edu/cse332-23au-students/p3-your netid`. You will submit this repository to gradescope for your project submissions (checkpoints and final submission).
 
+[Post Checkpoint 3 Survey](https://forms.gle/ERYkxige55UMz2jQ8)
+
 # Exams
 
 ## Exam 1
