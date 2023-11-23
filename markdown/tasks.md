@@ -130,3 +130,71 @@ We have provided links to past exams below. Since all past exams were given by a
 - [CSE 332 14sp Midterm](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-14sp.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-14sp-soln.pdf)
 - [CSE 332 13au Midterm](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-13au.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-13au-soln.pdf)
 
+
+## Exam 2
+
+The Final Exam will be held on Thursday December 14 at 8:30am-10:20am in CSE2 G20.
+
+An optional review session will be held at a time and place TBD.
+
+Once we have finalized the exam we will post a link to the actual cover page here so that you can see the instructions and a per-topic points breakdown.
+
+### Policies
+
+1. Closed book, closed notes
+1. No calculators, cell phones, or other electronic devices allowed.
+1. No writing after time is called, make sure you put your name on your paper first.
+1. You will be provided a reference sheet during the exam (that will likely match the sheet provided on the midterm).
+
+### Content
+
+The final exam is cumulative, but will focus more on material covered since the midterm exam. In addition to the content list for the midterm exam provided above, the final will cover:
+
+- Hash Tables:
+	- Principles of good hash function design
+	- Insert/Delete/Find using these collision resolution strategies:
+		- Separate Chaining
+		- Linear Probing
+		- Quadratic Probing
+		- Double Hashing
+	- Strengths and weaknesses of each collision resolution strategy
+	- Load Factor, including how to calculate it and how it interacts with collision resolution
+	- Rehashing
+- Sorting
+	- Definitions, procedures, running times, and other properties of these algorithms:
+		- Selection Sort
+		- Insertion Sort
+		- Heap Sort
+		- Merge Sort
+		- Quick Sort
+		- Buckeet Sort
+		- Radix Sort
+- Graphs
+	- The definitions of the many terms presented in the graphs section, including: node/vertex, edge, weight, directed graph, undirected graph, (in/out) degree, complete graph, simple graph, path, simple path, cycle, connected graph, DAG, tree, and others.
+	- Graph data structures (adjacency list, adjacency matrix) and the advantages and disadvantages of each.
+	- Graph Traversals (breadth-first search and depth-first search)
+	- Dijkstra's Algorithm
+	- Prim's algorithm and Kruskal's Algorithm
+	- Topological Sort
+- Parallelism:
+	- ForkJoin Parallelism
+	- Efficiency analysis (including work, span, perfect linear speedup, and Amdahl's Law)
+	- ForkJoin applications:
+		- Reduce: Parallel sum, max, find, etc.
+		- Map: vector addition, function application, etc.
+	- Parallel Prefix Sum
+	- Parallel Filter
+- Concurrency
+	- Race Conditions:
+		- Data Races
+		- Bad Interleavings
+	- Code Synchronization:
+		- Locks, reentrant locks
+		- Java's Synchronized statement
+		- Lock scheme granularity (coarse vs. fine)
+		- Criticl section size
+		- Deadlock
+- P, NP, NP-Completeness
+	- Definitions and relationships between these classes
+	- Examples of problems in each
+
