@@ -170,7 +170,18 @@ The final exam is cumulative, but will focus more on material covered since the 
 		- Buckeet Sort
 		- Radix Sort
 - Graphs
-	- The definitions of the many terms presented in the graphs section, including: node/vertex, edge, weight, directed graph, undirected graph, (in/out) degree, complete graph, simple graph, path, simple path, cycle, connected graph, DAG, tree, and others.
+	- The definitions of the many terms presented in the graphs section, including: 
+		- node/vertex
+		- edge, edge weight
+		- directed/undirected graph
+		- (in/out) degree
+		- complete graph
+		- simple graph
+		- path, simple path, and cycle
+		- connected graph
+		- DAG
+		- tree
+		- Any other definitions presented in the slides
 	- Graph data structures (adjacency list, adjacency matrix) and the advantages and disadvantages of each.
 	- Graph Traversals (breadth-first search and depth-first search)
 	- Dijkstra's Algorithm
