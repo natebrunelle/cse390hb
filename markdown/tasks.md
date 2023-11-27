@@ -209,3 +209,4 @@ The final exam is cumulative, but will focus more on material covered since the 
 	- Definitions and relationships between these classes
 	- Examples of problems in each
 
+Note: You will likely be asked to write java code using ForkJoin and/or threads. We will not require your syntax to be perfectly correct, but it should be correct enough that we can verify the code's would be correct if syntax issues were fixed. That is, we expect edge cases and other considerations of an algorithm to be correct, but don't necessarily expect all keywords or semicolons to be perfect.
