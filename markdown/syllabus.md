@@ -60,7 +60,7 @@ We will consider the grade assigned by the following weighted average to be a **
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Exercises                   25%     There will be about 10 total, the lowest 2 will be dropped. 
+Exercises                   25%     There will be about 13 total, the lowest 3 will be dropped.
 Programming Projects        35%     There will be 3 total
 Exams                       40%     Midterm weighted 15%, Final weighted 25%
 
