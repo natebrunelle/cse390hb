@@ -180,4 +180,12 @@
   ,"weight":1
   ,"files":"something.pdf"
   }
+,"EX13":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2023-12-08 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
+  }
 }
