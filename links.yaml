@@ -146,3 +146,8 @@
     slides(pptx): files/slides/lecture25_race_conditions.pptx
     slides(pdf): files/slides/lecture25_race_conditions.pdf
     Grossman (8,9): files/sophomoricParallelismAndConcurrency.pdf
+
+2023-11-30:
+    slides: https://docs.google.com/presentation/d/1nDOzHBRH8l-1PYHvGyeOS9QgPs1iIxwtfvSC8sNrH1s/edit?usp=sharing
+    handout: https://docs.google.com/document/d/12W9iZxbAxYSbaqC3U--gnA0isfUST1owcsoeFKimpHw/edit?usp=sharing
+    solution: https://docs.google.com/document/d/1X4j7ZoE6HvZzoHKOTrv1HN5O1uq-F7BwYtsL7irLYnA/edit?usp=sharing
