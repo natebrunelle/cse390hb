@@ -17,10 +17,12 @@
 2023-10-02:
     slides (pptx): files/slides/lecture3_analysis2.pptx
     slides (pdf): files/slides/lecture3_analysis2.pdf
+    slides (inked): files/slides/lecture3_analysis2_ink.pdf
 
 2023-10-04:
     slides(pdf): files/slides/lecture4_analysis2_pqs.pdf
     slides(pptx): files/slides/lecture4_analysis2_pqs.pptx
+    slides(inked): files/slides/lecture4_analysis2_pqs_ink.pdf
     
 2023-10-05:
     slides: https://docs.google.com/presentation/d/1WlBqdkAsN-YbRdtV6alrzmJCoPS6TLSqc4kXOdAixJA/edit?usp=drive_link
@@ -30,15 +32,18 @@
 2023-10-06:
     slides (pptx): files/slides/lecture5_pqs.pdf
     slides (pdf): files/slides/lecture5_pqs.pdf
+    slides (inked): files/slides/lecture5_pqs_ink.pdf
 
 2023-10-09:
     slides (pptx): files/slides/lecture6_pqs.pptx
     slides (pdf): files/slides/lecture6_pqs.pdf
+    slides (inked): files/slides/lecture6_pqs_ink.pdf
     
 2023-10-11:
     math identities: files/useful_math_identities.pdf
     slides (pptx): files/slides/lecture7_pqs_recurrences.pptx
     slides(pdf): files/slides/lecture7_pqs_recurrences.pdf
+    slides(inked): files/slides/lecture7_pqs_recurrences_ink.pdf
     
 2023-10-12:
     slides (pdf): https://docs.google.com/presentation/d/1olRCIkH3UnTEJ5vP27xULX4Kx5zUOhxOJgjn3V-ce_o/edit?usp=sharing 
@@ -49,14 +54,17 @@
 2023-10-13:
     slides (pptx): files/slides/lecture8_dicts_BSTs.pptx
     slides (pdf): files/slides/lecture8_dicts_BSTs.pdf
+    slides (inked): files/slides/lecture8_dicts_BSTs_ink.pdf
     
 2023-10-16:
     slides (pptx): files/slides/lecture9_avl1.pptx
     slides (pdf): files/slides/lecture9_avl1.pdf
+    slides (inked): files/slides/lecture9_avl1_ink.pdf
     
 2023-10-18:
     slides (pptx): files/slides/lecture10_avl_btrees.pptx
     slides (pdf): files/slides/lecture10_avl_btrees.pdf
+    slides (inked): files/slides/lecture10_avl_btrees_ink.pdf
     
 2023-10-19:
     slides: https://docs.google.com/presentation/d/1CKZZQHZBKP7SK8C_YYrAd9830tY3Lp4tIGwtnyI2zqo/edit?usp=sharing
@@ -66,14 +74,17 @@
 2023-10-20:
     slides (pptx): files/slides/lecture11_btrees_hashing.pptx
     slides (pdf): files/slides/lecture11_btrees_hashing.pdf
+    slides (inked): files/slides/lecture11_btrees_hashing_ink.pdf
     
 2023-10-23:
     slides (pptx): files/slides/lecture12_hashing.pptx
     slides (pdf): files/slides/lecture12_hashing.pdf
+    slides (inked): files/slides/lecture12_hashing_ink.pdf
     
 2023-10-25:
     slides (pptx): files/slides/lecture13_hashing2.pptx
     slides (pdf): files/slides/lecture13_hashing2.pdf
+    slides (inked): files/slides/lecture13_hashing2_ink.pdf
 
 2023-10-26:
     slides: https://docs.google.com/presentation/d/1Faw4I2F2Z9sKIDVK-_1FSpH4KD2TghAWDruB1FrzC3M/edit?usp=sharing
@@ -83,18 +94,22 @@
 2023-10-27:
     slides (pptx): files/slides/lecture14_hashing_sorting.pptx
     slides (pdf): files/slides/lecture14_hashing_sorting.pdf
+    slides (inked): files/slides/lecture14_hashing_sorting_ink.pdf
     
 2023-11-01:
     slides (pptx): files/slides/lecture15_sorting.pptx
     slides (pdf): files/slides/lecture15_sorting.pdf
+    slides (inked): files/slides/lecture15_sorting_ink.pdf
     
 2023-11-03:
     slides (pptx): files/slides/lecture16_sorting.pptx
     slides (pdf): files/slides/lecture16_sorting.pdf
+    slides (inked): files/slides/lecture16_sorting_ink.pdf
     
 2023-11-06:
     slides (pptx): files/slides/lecture17_graphs.pptx
     slides (pdf): files/slides/lecture17_graphs.pdf
+    slides (inked): files/slides/lecture17_graphs_ink.pdf
     
 2023-11-02:
     slides: https://docs.google.com/presentation/d/1uIxH6OOuCmJHUiRwSnObm0aSE9-pMltvkJWJeazBY0k/edit?usp=sharing
@@ -104,6 +119,7 @@
 2023-11-08:
     slides (pptx): files/slides/lecture18_graphs.pptx
     slides (pdf): files/slides/lecture18_graphs.pdf
+    slides (inked): files/slides/lecture18_graphs_ink.pdf
     
 2023-11-09:
     slides: https://docs.google.com/presentation/d/11pJVqkrVE9-_1c1nI_hzdFNEHzGAZP-zvZjUdxyHVPw/edit?usp=sharing
@@ -113,10 +129,12 @@
 2023-11-13:
     slides (pptx): files/slides/lecture19_graphs2.pptx
     slides (pdf): files/slides/lecture19_graphs2.pdf
+    slides (inked): files/slides/lecture19_graphs2_ink.pdf
     
 2023-11-15:
     slides (pptx): files/slides/lecture20_forkjoin.pptx
     slides (pdf): files/slides/lecture20_forkjoin.pdf
+    slides (inked): files/slides/lecture20_forkjoin_ink.pdf
     Grossman (2.1-3.4): files/sophomoricParallelismAndConcurrency.pdf
 
 2023-11-16:
@@ -126,10 +144,12 @@
 2023-11-17:
     slides (pptx): files/slides/lecture21_graphs3.pptx
     slides (pdf): files/slides/lecture21_graphs3.pdf
+    slides (inked): files/slides/lecture21_graphs3_ink.pdf
 
 2023-11-20:
     slides(pptx): files/slides/lecture22_forkjoin_analysis.pptx
     slides(pdf): files/slides/lecture22_forkjoin_analysis.pdf
+    slides(inked): files/slides/lecture22_forkjoin_analysis_ink.pdf
     Grossman (3.5-4.3): files/sophomoricParallelismAndConcurrency.pdf
 
 2023-11-22:
@@ -140,14 +160,21 @@
 2023-11-27:
     slides(pptx): files/slides/lecture24_concurrency.pptx
     slides(pdf): files/slides/lecture24_concurrency.pdf
+    slides(inked): files/slides/lecture24_concurrency_ink.pdf
     Grossman (6-7.1): files/sophomoricParallelismAndConcurrency.pdf
 
 2023-11-29:
     slides(pptx): files/slides/lecture25_race_conditions.pptx
     slides(pdf): files/slides/lecture25_race_conditions.pdf
+    slides(inked): files/slides/lecture25_race_conditions_ink.pdf
     Grossman (8,9): files/sophomoricParallelismAndConcurrency.pdf
 
 2023-11-30:
     slides: https://docs.google.com/presentation/d/1nDOzHBRH8l-1PYHvGyeOS9QgPs1iIxwtfvSC8sNrH1s/edit?usp=sharing
     handout: https://docs.google.com/document/d/12W9iZxbAxYSbaqC3U--gnA0isfUST1owcsoeFKimpHw/edit?usp=sharing
     solution: https://docs.google.com/document/d/1X4j7ZoE6HvZzoHKOTrv1HN5O1uq-F7BwYtsL7irLYnA/edit?usp=sharing
+
+2023-12-01:
+    slides(pptx): files/slides/lecture26_deadlock.pptx
+    slides(pdf): files/slides/lecture26_deadlock.pdf
+    Grossman (8,9): files/sophomoricParallelismAndConcurrency.pdf
