@@ -178,3 +178,7 @@
     slides(pptx): files/slides/lecture26_deadlock.pptx
     slides(pdf): files/slides/lecture26_deadlock.pdf
     Grossman (8,9): files/sophomoricParallelismAndConcurrency.pdf
+
+2023-12-04:
+    slides(pptx): files/slides/lecture27_topsort_msts.pptx
+    slides(pdf): files/slides/lecture27_topsort_msts.pdf
