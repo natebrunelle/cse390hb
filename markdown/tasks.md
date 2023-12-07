@@ -137,14 +137,14 @@ The Final Exam will be held on Thursday December 14 at 8:30am-10:20am in CSE2 G2
 
 An optional review session will be held at a time and place TBD.
 
-Once we have finalized the exam we will post a link to the actual cover page here so that you can see the instructions and a per-topic points breakdown.
+Here's a preview of the [cover page of the exam](files/final_cover.pdf). You can see the instructions and a per-topic points breakdown!
 
 ### Policies
 
 1. Closed book, closed notes
 1. No calculators, cell phones, or other electronic devices allowed.
 1. No writing after time is called, make sure you put your name on your paper first.
-1. You will be provided a reference sheet during the exam (that will likely match the sheet provided on the midterm).
+1. You will be provided a reference sheet during the exam (this is the [actual exam reference page](files/final_reference.pdf)).
 
 ### Content
 
