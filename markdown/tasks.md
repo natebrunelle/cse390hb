@@ -135,7 +135,7 @@ We have provided links to past exams below. Since all past exams were given by a
 
 The Final Exam will be held on Thursday December 14 at 8:30am-10:20am in CSE2 G20.
 
-An optional review session will be held at a time and place TBD.
+An optional review session will be held Tuesday December 12 at 4:30pm-6:20pm in CSE2 room G01.
 
 Here's a preview of the [cover page of the exam](files/final_cover.pdf). You can see the instructions and a per-topic points breakdown!
 
