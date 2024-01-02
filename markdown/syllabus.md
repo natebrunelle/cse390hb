@@ -90,7 +90,7 @@ quarter. The bottom line is that these will only have a small effect on your ove
 will drop your lowest twoish exercise scores.) 
 
 You are allotted four late days that may be used
-to gain an extra 24 hours for a programming project (or checkpoint). If you have used up your late days, a penalty of
+to gain an extra 24 hours for a programming project (final project submissions only, not checkpoints). If you have used up your late days, a penalty of
 10% per day will be assessed. Programming projects will not be accepted beyond 48 hours from
 the original due date. 
 
