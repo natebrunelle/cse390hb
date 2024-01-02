@@ -69,13 +69,13 @@ This numerical calculation is to be considered a **guideline** on your score in 
 
 ## Gradepoint Guarantee
 
-To help you to keep track of your standing in the course and to interpret grades as they are returned, we will provide the following "Gradepoint Guarantees". If you score in the course using the weighted average above is at or above the thresholds below, we guarantee you will receive a course GPA that is at least the amount shown.
+To help you to keep track of your standing in the course and to interpret grades as they are returned, we will provide the following "Gradepoint Guarantees". If you score in the course using the weighted average above is at or above the thresholds below, we guarantee you will receive a course GPA that is at least the amount shown. At the end of the quarter we may adjust these thresholds in order to maintain consistent grading with past offerings of the course, but we guarantee we will only relax them. That is, your final GPA may possibly be higher than those given, but will definitely not be lower.
  
-If you score at least      Then your course GPA will be
+If your grade is           Then your course GPA will be
 -------------------------  -------------------------------------
-92%                        ≥3.5
-85%                        ≥3.0
-70%                        ≥2.0  
+≥92%                        ≥3.5
+≥85%                        ≥3.0
+≥70%                        ≥2.0  
 
 ## Extra Credit
 
