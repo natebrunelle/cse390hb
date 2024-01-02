@@ -79,6 +79,23 @@
   ,"weight":1
   ,"files":"something.java"
   }
+,"EX05":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-02-14 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX06":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2024-02-14 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
+  }
 ,"Project 2":
   {"portion":"30"
   ,"drop":2
@@ -129,5 +146,37 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
+  }
+,"EX10":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2024-03-07 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
+  }
+,"EX11":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2024-03-07 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
+  }
+,"EX12":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2024-03-07 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
+  }
+,"EX13":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2024-03-07 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
   }
 }
