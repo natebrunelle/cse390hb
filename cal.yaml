@@ -41,7 +41,7 @@ lectures:
     - Priority Queues 2 (Binary Heap)
     - Algorithm Analysis 3
     - Dictionaries 1 (ADT & Binary Search Trees)
-    - Dictionries 2 (AVL Trees)
+    - Dictionaries 2 (AVL Trees)
     - Dictionaries 3 (B-Trees)
     - Dictionaries 4 (Hashing)
     - Dictionaries 5 (Hashing cont.)
@@ -55,10 +55,11 @@ lectures:
     - Parallelism 4 (Parallel Sorting)
     - Synchronization 1 (Concurrency & Mutual Exclusion)
     - Synchronization 2 (Race Conditions & Deadlock)
-    - Graphs 3 (Topological Sort)
-    - Graphs 4 (MST)
+    - Graphs 3 (Shortest Path)
+    - Graphs 4 (MST & Topological Sort)
     - P NP NP-Complete 1
     - P NP NP-Complete 2
+    - Finale
 
 labs:
     - S01 Intros, P1, Tries
