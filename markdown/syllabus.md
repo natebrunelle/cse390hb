@@ -6,10 +6,11 @@ title: Syllabus
 
 ## Meetings
 
-In Person lectures will be held in Gates Center (i.e. CSE2) room G20 at 12:30pm-1:20pm
+In Person lectures will be held in Gates Center (i.e. CSE2) room G20 at 12:30pm-1:20pm and room G01 at 3:30pm-4:20pm. 
 
 Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are automatically posted to Canvas under the Panopto tool.
 
+Both offerings of the course will share the same assignments, deadlines, TA office hours, etc. I will do my best to cover the same content in lectures on the same days, but since different people may learn different topics at different rates, there may be occasional drift. 
 
 ## Contact
 
@@ -56,15 +57,25 @@ All assignments will be posted and submitted either in class (for exams) or on G
 
 # Grading
 
-We will consider the grade assigned by the following weighted average to be a **guideline** for calculating grades.
+We will consider the grade assigned by the following weighted average (of percentages) to be a **guideline** for calculating grades.
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Exercises                   25%     There will be about 13 total, the lowest 3 will be dropped.
+Exercises                   25%     There will be about 12 total, your best 10 scores will count (the rest will be dropped).
 Programming Projects        35%     There will be 3 total
 Exams                       40%     Midterm weighted 15%, Final weighted 25%
 
 This numerical calculation is to be considered a **guideline** on your score in the course. Final grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials.
+
+## Gradepoint Guarantee
+
+To help you to keep track of your standing in the course and to interpret grades as they are returned, we will provide the following "Gradepoint Guarantees". If you score in the course using the weighted average above is at or above the thresholds below, we guarantee you will receive a course GPA that is at least the amount shown.
+ 
+If you score at least      Then your course GPA will be
+-------------------------  -------------------------------------
+92%                        ≥3.5
+85%                        ≥3.0
+70%                        ≥2.0  
 
 ## Extra Credit
 
@@ -76,16 +87,18 @@ quarter. The bottom line is that these will only have a small effect on your ove
 ## Deadlines
 
 **Exercises** may not be turned in late. (Although when calculating final grades, we
-will drop your lowest two exercise scores.) 
+will drop your lowest twoish exercise scores.) 
 
 You are allotted four late days that may be used
 to gain an extra 24 hours for a programming project (or checkpoint). If you have used up your late days, a penalty of
 10% per day will be assessed. Programming projects will not be accepted beyond 48 hours from
-the original due date.
+the original due date. 
+
+If any assigments incur a lateness grade penalty, at the end of the quarter the assignments we will automatically apply the allotted late daysand grade penalties to assignments to maximize your grade.
 
 ## Regrades
 
-We acknowledge that professors and TAs are people (glad to get that confession off of my chest!), and people make mistakes. For this reason, you are able to request regrades on assignments within either one week of your grade being returned or by 11:59pm on Dec 12, which ever date is sooner. 
+We acknowledge that professors and TAs are people (glad to get that confession off of my chest!), and people make mistakes. For this reason, you are able to request regrades on assignments within either one week of your grade being returned or by 11:59pm on March 15, which ever date is sooner. 
 
 Please only submit a regrade request if you believe the rubric was misapplied to your submission or if there was a keying error for the task. In the case of a misapplication of the rubric, identify specifically what in your submission demonstrates the misapplication and suggest how you believe the rubric should be correctly applied. In the case of a keying error, state and justify why you believe your answer should be considered correct. Disagreement with the existance or weighting of a rubric item is not considered a valid reason for a regrade request.
 

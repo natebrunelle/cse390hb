@@ -114,32 +114,24 @@
   ,"weight":1
   ,"files":"something.java"
   }
+,"EX07":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2024-02-23 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
+  }
 ,"P3 Checkpoint 1":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-02-23 23:59"
+  ,"due":"2024-02-26 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX07":
-  {"portion":"30"
-  ,"group":"written"
-  ,"due":"2024-02-26 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.pdf"
-  }
 ,"EX08":
-  {"portion":"30"
-  ,"group":"written"
-  ,"due":"2024-03-01 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.pdf"
-  }
-,"EX09":
   {"portion":"30"
   ,"group":"written"
   ,"due":"2024-03-01 23:59"
@@ -156,6 +148,14 @@
   ,"weight":1
   ,"files":"something.java"
   }
+,"EX10":
+  {"portion":"30"
+  ,"group":"written"
+  ,"due":"2024-03-06 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.pdf"
+  }
 ,"EX11":
   {"portion":"30"
   ,"group":"written"
@@ -164,15 +164,7 @@
   ,"weight":1
   ,"files":"something.pdf"
   }
-,"EX12":
-  {"portion":"30"
-  ,"group":"written"
-  ,"due":"2024-03-06 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
-  ,"weight":1
-  ,"files":"something.pdf"
-  }
-,"EX10":
+,"EX09":
   {"portion":"30"
   ,"group":"written"
   ,"due":"2024-03-07 23:59"
@@ -180,7 +172,7 @@
   ,"weight":1
   ,"files":"something.pdf"
   }
-,"EX13":
+,"EX12":
   {"portion":"30"
   ,"group":"written"
   ,"due":"2024-03-08 23:59"
