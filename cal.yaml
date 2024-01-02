@@ -3,7 +3,7 @@ Special Dates:
   Courses end: 2024-03-08
   MLK Day: 2024-01-15
   President's Day: 2024-02-19
-  Midterm Exam: 2023-02-05
+  Midterm Exam: 2024-02-05
 
 meta:
   timezone: America/New_York
@@ -47,7 +47,6 @@ lectures:
     - Dictionaries 5 (Hashing cont.)
     - Sorting 1 (Comparison Sorting)
     - Sorting 2 (Beyond Comparison Sorting)
-    - Midterm Exam
     - Graphs 1 (Intro to Graphs)
     - Graphs 2 (Traversals)
     - Parallelism 1 (Fork-Join)
@@ -111,14 +110,14 @@ assignments:
             
     Prelim Survey:
         group: programming
-        due: 2023-01-05 23:59:00
+        due: 2024-01-05 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.pdf'        
             
     P1 Checkpoint 0:
         group: programming
-        due: 2023-01-08 23:59:00
+        due: 2024-01-08 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
