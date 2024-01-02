@@ -5,25 +5,7 @@ title: Tasks
 
 # Exercises
 
-## Exercise 1
-
-Exercise 1 asks you to perform asymptotic running time analysis on given Java code. You can find Exercise 1 on Gradescope.
-
-## Exercise 2
-
-Exercise 2 asks you to manually manipulate heaps. You can find Exercise 2 on Gradescope.
-
-## Exercise 3
-
-Exercise 3 asks you to solve recurrence relations, you can find Exercise 3 on Gradescope.
-
-## Exercise 4
-
-Exercise 4 asks you to perform insertions into AVL Trees and B Trees, you can find Exercise 4 on Gradescope.
-
-## Exercise 5
-
-Exercise 5 is a programming assignment that asks you to write Java code which checks whether a given tree is a valid AVL tree. We have created a gitlab repository for you containing the description and starter code for this exercise. You will submit on Gradescope.
+We will post links to exercises here as they are released.
 
 # Projects
 
@@ -37,54 +19,24 @@ If you have a pesky bug in your code that you're struggling to track down, try f
 
 At the end of each checkpoint we will have a survey. This is intended just for us to keep up with the overall sentiment of class as a whole, and to reach out and help students who request additional support. It's not required fill out the survey, but doing so will give us more information on how we can better serve you!
 
-## Project 1
-
-You can see the description (specification) of project 1 [here](https://docs.google.com/document/d/19Hg9mZngymc2_bSqf4y5U5FcgrqBLs8dux5Eo7ucMNM/edit?usp=sharing).
-
-You can find the code for [project 1 in this gitlab repository](https://gitlab.cs.washington.edu/cse332-23au/p1-public). This code is also in a gitlab repositorty we created for you at `gitlab.cs.washington.edu/cse332-23au-students/p1-your netid`. You will submit this repository to gradescope for your project submissions (checkpoints and final submission).
-
-[Post Checkpoint 1 Survey](https://docs.google.com/forms/d/e/1FAIpQLScAecDFTJGM5QPcNH9s0yFh26qIcKtsq9QEIijldXPdCWi0ag/viewform)
-
-## Project 2
-
-You can see the description (specification) of project 1 [here](https://docs.google.com/document/d/1M9jNReC99AQR8vOzkEqvb6cKQXYuuyFQcMdQxtOg124/edit?usp=sharing)
-
-You can find the code for [project 2 in this gitlab repository](https://gitlab.cs.washington.edu/cse332-23au/p2-public). This code is also in a gitlab repositorty we created for you at `gitlab.cs.washington.edu/cse332-23au-students/p1-your netid`. You will submit this repository to gradescope for your project submissions (checkpoints and final submission).
-
-[Post Checkpoint 2 Survey](https://forms.gle/5LwnzZAUkDz54u7LA)
-
-## Project 3
-
-You can see the description (specification) of project 3 [here](https://docs.google.com/document/d/11Vc2c1hK_divwGjxJkUAP7gqNtcuyqjegb55OIU48O0/edit?usp=sharing).
-
-You can find the code for [project 3 in this gitlab repository](https://gitlab.cs.washington.edu/cse332-23au/p3-public). This code is also in a gitlab repositorty we created for you at `gitlab.cs.washington.edu/cse332-23au-students/p3-your netid`. You will submit this repository to gradescope for your project submissions (checkpoints and final submission).
-
-[Post Checkpoint 3 Survey](https://forms.gle/ERYkxige55UMz2jQ8)
-
 # Exams
 
 ## Exam 1
 
-The Midterm Exam will be held on Monday October 30 during our normal lecture session (12:30-1:20pm in CSE2 G20).
+The Midterm Exam will be held on Monday Feb 10 during your normal lecture sessions.
 
-An optional review session will be held in CSE2 G20 from 4:30pm-6:00pm on Friday October 27.
-
-Here's a preview of the [cover page of the exam](files/midterm_cover.pdf). You can see the instructions and a per-topic points breakdown!
-
-### Answer Key
-
-You're welcome to view [our answer key](files/cse332-midterm-23au-soln.pdf) for the midterm exam.
+An optional review session will be held at a time and date TBC.
 
 ### Policies
 
 1. Closed book, closed notes
 1. No calculators, cell phones, or other electronic devices allowed.
 1. No writing after time is called, make sure you put your name on your paper first.
-1. You will be provided a reference sheet during the exam (this is the [actual exam reference page](files/midterm_reference.pdf)).
+1. You will be provided a reference sheet during the exam. We will post that page here once it has been finalized.
 
 ### Content
 
-The exam will cover all material from the beginning of the quarter up through ~~hashing~~ B Trees. This includes:
+The exam will cover all material from the beginning of the quarter up through B Trees. This includes:
 
 - Abstract Data Types and Data structures:
 	- Their Definitions and Differences
@@ -133,18 +85,16 @@ We have provided links to past exams below. Since all past exams were given by a
 
 ## Exam 2
 
-The Final Exam will be held on Thursday December 14 at 8:30am-10:20am in CSE2 G20.
+The Final Exam will be held on Thursday March 14 at 12:30pm-2:20pm.
 
-An optional review session will be held Tuesday December 12 at 4:30pm-6:20pm in CSE2 room G01.
-
-Here's a preview of the [cover page of the exam](files/final_cover.pdf). You can see the instructions and a per-topic points breakdown!
+An optional review session will be held prior to the exam at a time and date TBD.
 
 ### Policies
 
 1. Closed book, closed notes
 1. No calculators, cell phones, or other electronic devices allowed.
 1. No writing after time is called, make sure you put your name on your paper first.
-1. You will be provided a reference sheet during the exam (this is the [actual exam reference page](files/final_reference.pdf)).
+1. You will be provided a reference sheet during the exam.
 
 ### Content
 
