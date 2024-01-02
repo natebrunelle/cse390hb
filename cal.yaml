@@ -111,14 +111,14 @@ assignments:
             
     Prelim Survey:
         group: programming
-        due: 2023-09-29 23:59:00
+        due: 2023-01-05 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.pdf'        
             
     P1 Checkpoint 0:
         group: programming
-        due: 2023-10-02 23:59:00
+        due: 2023-01-08 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
