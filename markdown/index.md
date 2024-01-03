@@ -3,6 +3,7 @@ title: Home
 ...
 
 Handy links:
+
 - [Gradescope](https://www.gradescope.com/courses/691773)
 - [Ed Board](https://edstem.org/us/courses/50612/discussion/)
 - [Lecture Recordings](https://canvas.uw.edu/courses/1695942/external_tools/21130)
