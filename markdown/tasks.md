@@ -2,6 +2,7 @@
 title: Tasks
 ...
 
+All tasks will be submitted and graded on [Gradescope](https://www.gradescope.com/courses/691776).
 
 # Exercises
 
