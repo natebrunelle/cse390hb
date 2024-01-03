@@ -5,7 +5,7 @@ self="$(readlink -m "$0")"
 cd "$here"
 target="$(readlink -f "$here""/demo_site/")/"
 remote=brunelle@attu.cs.washington.edu:/cse/web/courses/cse332/24wi
-if [ "$#" -lt 1 ] && [ "$1" != 'test' ]
+if [ "$#" -gt 0 ] && [ "$1" != 'test' ]
 then
 	remote="$1"@attu.cs.washington.edu:/cse/web/courses/cse332/24wi
 fi
