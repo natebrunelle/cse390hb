@@ -20,6 +20,12 @@ If you have a pesky bug in your code that you're struggling to track down, try f
 
 At the end of each checkpoint we will have a survey. This is intended just for us to keep up with the overall sentiment of class as a whole, and to reach out and help students who request additional support. It's not required fill out the survey, but doing so will give us more information on how we can better serve you!
 
+## Project 1
+
+You can see the description (specification) of project 1 [here](https://docs.google.com/document/d/1zm_Qwzg_9duBEKwfrA9NTEmNR64fVwNXiH1eg-DCEkU/edit?usp=sharing).
+
+You can find the code for project 1 in this [gitlab repository](https://gitlab.cs.washington.edu/cse332-24wi/p1-public). This code is also in a gitlab repositorty we created for you at gitlab.cs.washington.edu/cse332-24wi-students/p1-yournetid. You will submit this repository to gradescope for your project submissions (checkpoints and final submission).
+
 # Exams
 
 ## Exam 1
