@@ -30,7 +30,7 @@ You can find the code for project 1 in this [gitlab repository](https://gitlab.c
 
 ## Exam 1
 
-The Midterm Exam will be held on Monday Feb 10 during your normal lecture sessions.
+The Midterm Exam will be held on Monday Feb 5 during your normal lecture sessions.
 
 An optional review session will be held at a time and date TBC.
 
