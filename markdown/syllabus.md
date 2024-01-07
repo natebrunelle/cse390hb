@@ -18,7 +18,7 @@ Both offerings of the course will share the same assignments, deadlines, TA offi
 |--------|------------|-----|
 | Name | Nathan Brunelle | [Profiles](staff.html) |
 | Location | Allen Center (CSE) 434 | [See Calendar](oh.html) |
-| Office Hours | MWF 1:30-3:00 | [See Calendar](oh.html) |
+| Office Hours | M 1:30-3:00, Thu 9:30-11:30 | [See Calendar](oh.html) |
 | Phone |  | (none) |
 | Email | <a href="mailto:brunelle@cs.washington.edu?subject=CSE332">brunelle@cs.washington.edu</a> | use Ed Discussion Board |
 
