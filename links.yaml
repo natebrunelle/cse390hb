@@ -67,15 +67,10 @@
     slides (pptx): files/slides/lecture9_avl_btrees.pptx
     slides (pdf): files/slides/lecture9_avl_btrees.pdf
     
-2023-10-18:
-    slides (pptx): files/slides/lecture10_avl_btrees.pptx
-    slides (pdf): files/slides/lecture10_avl_btrees.pdf
-    slides (inked): files/slides/lecture10_avl_btrees_ink.pdf
-    
-2023-10-19:
-    slides: https://docs.google.com/presentation/d/1CKZZQHZBKP7SK8C_YYrAd9830tY3Lp4tIGwtnyI2zqo/edit?usp=sharing
-    handout: https://docs.google.com/document/d/1MUxupdyVIIypyvQeyruFxtCAUiuIpYMiGK797SPHKWA/edit?usp=sharing
-    solution: https://docs.google.com/document/d/1lfuLIs-7qtjsoSGcr1NmjVmFBRFGE8EI8Uohi6rA5Ec/edit?usp=sharing
+2024-01-25:
+    slides: https://docs.google.com/presentation/d/10oICj6vr1CDsK91YoYbS6JsjEamlNHnV4otOPNPDQGA/edit?usp=sharing
+    handout: https://docs.google.com/document/d/1Z2pT0OPIr2YrXDxVloYR-RSUbtewmzeUQBLmiprrhDw/edit?usp=sharing
+    solution: https://docs.google.com/document/d/10DJOLIa6MHDR0qVG7sedp0VhCdga2o5loMSJwCrMs5U/edit?usp=sharing
 
 2023-10-20:
     slides (pptx): files/slides/lecture11_btrees_hashing.pptx
