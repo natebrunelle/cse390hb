@@ -39,14 +39,16 @@ You can find the code for project 2 in this [gitlab repository](https://gitlab.c
 
 The Midterm Exam will be held on Monday Feb 5 during your normal lecture sessions.
 
-An optional review session will be held at a time and date TBC.
+An optional review session will be held at a 4:30pm on Friday February 2 in Gates (CSE2) room G20.
+
+Here is a preview of the [actual cover page](files/midterm_cover.pdf) of the exam. This includes the instructions and per-topic points breakdown. The section called "Algorithms" will ask you to write algorithms involving data structures we've covered, then analyze their running times. To prepare for this section make sure you know how each data structure is organized, and how to evaluate the running time of an algorithm (material already covered in the content section below). Since this section involves multiple data structures, it was broked out into its own section rather than being included in one of the others.
 
 ### Policies
 
 1. Closed book, closed notes
 1. No calculators, cell phones, or other electronic devices allowed.
 1. No writing after time is called, make sure you put your name on your paper first.
-1. You will be provided a reference sheet during the exam. We will post that page here once it has been finalized.
+1. You will be provided a [reference sheet](files/midterm_reference.pdf) during the exam.
 
 ### Content
 
