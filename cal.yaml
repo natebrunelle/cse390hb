@@ -44,12 +44,12 @@ lectures:
     - Dictionaries (AVL Trees 1)
     - Dictionaries (AVL Trees 2)
     - Dictionaries (B-Trees)
-    - Dictionaries (Hashing)
+    - Dictionaries (B-Trees & Hashing)
+    - Dictionaries (Hashing )
     - Dictionaries (Hashing 2)
-    - Sorting 1 
+    - Sorting 1
     - Sorting 2
-    - Graphs 1 (Intro to Graphs)
-    - Graphs 2 (Traversals)
+    - Graphs 1 (Intro to Graphs & Traversals)
     - Parallelism 1 (Fork-Join)
     - Parallelism 2 (Analysis)
     - Parallelism 3 (Parallel Prefix)
