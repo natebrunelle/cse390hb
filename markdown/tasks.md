@@ -6,7 +6,10 @@ All tasks will be submitted and graded on [Gradescope](https://www.gradescope.co
 
 # Exercises
 
-We will post links to exercises here as they are released.
+
+# Exercise 5
+
+Exercise 5 is a programming assignment that asks you to write Java code which checks whether a given tree is a valid AVL tree. We have created a gitlab repository for you containing the description and starter code for this exercise. You will submit on Gradescope
 
 # Projects
 
