@@ -50,12 +50,12 @@ lectures:
     - Sorting 1
     - Sorting 2
     - Graphs 1 (Intro to Graphs & Traversals)
+    - Graphs 2 (Shortest path)
     - Parallelism 1 (Fork-Join)
     - Parallelism 2 (Analysis)
     - Parallelism 3 (Parallel Prefix)
     - Synchronization 1 (Concurrency & Mutual Exclusion)
     - Synchronization 2 (Race Conditions & Deadlock)
-    - Graphs 3 (Shortest Path)
     - Graphs 4 (MST & Topological Sort)
     - P NP NP-Complete 1
     - P NP NP-Complete 2
@@ -67,9 +67,9 @@ labs:
     - S03 Recurrences
     - S04 AVL Trees & B-Trees
     - S05 Hashing & Review
-    - S06 Sorting & Graphs
-    - S07 Writing Parallel Programs
-    - S08 Two-pass Parallel Programs
+    - S06 Sortings
+    - S07 Graphs
+    - S08 Parallel Programs
     - S09 Concurrency & Graphs
     - S10 P/NP & Final Review
 
