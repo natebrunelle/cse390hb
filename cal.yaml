@@ -69,8 +69,8 @@ labs:
     - S05 Hashing & Review
     - S06 Sortings
     - S07 Graphs
-    - S08 Parallel Programs
-    - S09 Concurrency & Graphs
+    - S08 Parallel Programs 
+    - S09 Concurrency & Two-Pass parallel
     - S10 P/NP & Final Review
 
 reading:
