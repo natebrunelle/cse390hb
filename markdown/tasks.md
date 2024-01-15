@@ -104,7 +104,7 @@ We have provided links to past exams below. Since all past exams were given by a
 
 ### Answer key
 
-You can find an answer key for this midterm exam [here]((files/cse332-midterm-24wi_soln.pdf).
+You can find an answer key for this midterm exam [here](files/cse332-midterm-24wi_soln.pdf).
 
 ## Exam 2
 
