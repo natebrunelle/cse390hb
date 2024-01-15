@@ -102,6 +102,9 @@ We have provided links to past exams below. Since all past exams were given by a
 - [CSE 332 14sp Midterm](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-14sp.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-14sp-soln.pdf)
 - [CSE 332 13au Midterm](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-13au.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-13au-soln.pdf)
 
+### Answer key
+
+You can find an answer key for this midterm exam [here]((files/cse332-midterm-24wi_soln.pdf).
 
 ## Exam 2
 
