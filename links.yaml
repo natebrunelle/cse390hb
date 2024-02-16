@@ -129,16 +129,17 @@
 2024-02-14:
     slides (pptx): files/slides/lecture17_graphs.pptx
     slides (pdf): files/slides/lecture17_graphs.pdf
+    slides (1230): files/slides/lecture17_graphs_ink1230.pdf
+    slides (330): files/slides/lecture17_graphs_ink330.pdf
     
 2024-02-15:
     slides: https://docs.google.com/presentation/d/1x1dcay56O3STqLcNgX6AlpLrl-bkejRavLf2LWZ1SB8/edit?usp=sharing
     handout: https://docs.google.com/document/d/10B6pWymX7kWfXSctTwpIUiRJ7SQnPnndniRVOVzB9Ww/edit?usp=sharing
-    solution: https://docs.google.com/document/d/10B6pWymX7kWfXSctTwpIUiRJ7SQnPnndniRVOVzB9Ww/edit?usp=sharing
+    solution: https://docs.google.com/document/d/1aQbIKPLgu9IFJGpa07RQWETtfx152K9nWomGWefG_N4/edit?usp=sharing
 
-2023-11-13:
-    slides (pptx): files/slides/lecture19_graphs2.pptx
-    slides (pdf): files/slides/lecture19_graphs2.pdf
-    slides (inked): files/slides/lecture19_graphs2_ink.pdf
+2024-02-16:
+    slides (pptx): files/slides/lecture18_dijkstras_forkjoin.pptx
+    slides (pdf): files/slides/lecture18_dijkstras_forkjoin.pdf
     
 2023-11-15:
     slides (pptx): files/slides/lecture20_forkjoin.pptx
