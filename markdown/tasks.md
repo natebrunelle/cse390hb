@@ -35,6 +35,11 @@ You can see the description (specification) of project 2 [here](https://docs.goo
 
 You can find the code for project 2 in this [gitlab repository](https://gitlab.cs.washington.edu/cse332-24wi/p2-public). This code is also in a gitlab repositorty we created for you at gitlab.cs.washington.edu/cse332-24wi-students/p2-yournetid. You will submit this repository to gradescope for your project submissions (checkpoints and final submission).
 
+## Project 3
+
+You can see the description (specification) of project 3 [here](https://docs.google.com/document/d/13kY2jervIThb7TM5_WLeq0czhp4SABMN18UxzZgSVBo/edit?usp=sharing).
+
+You can find the code for project 3 in this [gitlab repository](https://gitlab.cs.washington.edu/cse332-24wi/p3-public). This code is also in a gitlab repositorty we created for you at gitlab.cs.washington.edu/cse332-24wi-students/p3-yournetid. You will submit this repository to gradescope for your project submissions (checkpoints and final submission).
 
 # Exams
 
