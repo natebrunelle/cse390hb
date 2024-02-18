@@ -193,6 +193,7 @@ Note: You will likely be asked to write java code using ForkJoin and/or threads.
 
 We have provided links to past exams below. Since all past exams were given by a different instructor, be advised that the question style, length, and difficulty may be different this quarter. I recommend that you mostly use these exams to evaluate your preparedness rather than as a study guide. In summary, question style will be similar to the midterm, quest content will be similar to the exams below.
 
+- [CSE 332 23au](files/cse332-final-23au.pdf), [Solution](files/cse332-final-23au-soln.pdf)
 - [CSE 332 23wi](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-23wi.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-23wi-soln.pdf)
 - [CSE 332 19au](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-19au.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-19au-soln.pdf)
 - [CSE 332 19wi](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-19wi.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-19wi-soln.pdf)

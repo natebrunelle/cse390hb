@@ -157,6 +157,8 @@
 2024-02-23:
     slides (pptx): files/slides/lecture20_prefix.pptx
     slides (pdf): files/slides/lecture20_prefix.pdf
+    slides (1230): files/slides/lecture20_prefix_ink1230.pdf
+    slides (330): files/slides/lecture20_prefix_ink330.pdf
 
 2023-11-20:
     slides(pptx): files/slides/lecture22_forkjoin_analysis.pptx
@@ -164,9 +166,9 @@
     slides(inked): files/slides/lecture22_forkjoin_analysis_ink.pdf
     Grossman (3.5-4.3): files/sophomoricParallelismAndConcurrency.pdf
 
-2023-11-22:
-    slides(pptx): files/slides/lecture23_ahmdal_prefix.pptx
-    slides(pdf): files/slides/lecture23_ahmdal_prefix.pdf
+2024-02-26:
+    slides(pptx): files/slides/lecture21_analysis.pptx
+    slides(pdf): files/slides/lecture21_analysis.pdf
     Grossman (5.1-5.4): files/sophomoricParallelismAndConcurrency.pdf
 
 2023-11-27:
