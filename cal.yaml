@@ -49,12 +49,12 @@ lectures:
     - Dictionaries (Hashing 2)
     - Sorting 1
     - Sorting 2
-    - Graphs 1 (Intro to Graphs & Traversals)
+    - Graphs 1 (Intro to Graphs)
+    - Graphs 2 (Traversals)
     - Graphs 2 (Shortest path)
     - Parallelism 1 (Fork-Join)
-    - Parallelism 2 (Analysis)
-    - Parallelism 3 (Parallel Prefix)
-    - Synchronization 1 (Concurrency & Mutual Exclusion)
+    - Parallelism 2 (Parallel Prefix)
+    - Parallel Analysis & Concurrency
     - Synchronization 2 (Race Conditions & Deadlock)
     - Graphs 4 (MST & Topological Sort)
     - P NP NP-Complete 1
