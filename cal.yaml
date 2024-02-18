@@ -55,7 +55,7 @@ lectures:
     - Parallelism 1 (Fork-Join)
     - Parallelism 2 (Parallel Prefix)
     - Parallel Analysis & Concurrency
-    - Synchronization 2 (Race Conditions & Deadlock)
+    - Synchronization (Race Conditions & Deadlock)
     - Graphs 4 (MST & Topological Sort)
     - P NP NP-Complete 1
     - P NP NP-Complete 2

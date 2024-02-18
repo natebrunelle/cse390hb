@@ -154,10 +154,9 @@
     slides: https://docs.google.com/presentation/d/1MI7RgF8Q0iAvBTtvMwYGIsR-Qm96_fS8OaBHBgUFIkc/edit?usp=sharing
     code: https://gitlab.cs.washington.edu/cse332-24wi/section-para
 
-2023-11-17:
-    slides (pptx): files/slides/lecture21_graphs3.pptx
-    slides (pdf): files/slides/lecture21_graphs3.pdf
-    slides (inked): files/slides/lecture21_graphs3_ink.pdf
+2024-02-23:
+    slides (pptx): files/slides/lecture20_prefix.pptx
+    slides (pdf): files/slides/lecture20_prefix.pdf
 
 2023-11-20:
     slides(pptx): files/slides/lecture22_forkjoin_analysis.pptx
