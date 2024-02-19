@@ -169,12 +169,13 @@
 2024-02-26:
     slides(pptx): files/slides/lecture21_analysis.pptx
     slides(pdf): files/slides/lecture21_analysis.pdf
+    slides(1230): files/slides/lecture21_analysis_ink1230.pdf
+    slides(330): files/slides/lecture21_analysis_ink330.pdf
     Grossman (5.1-5.4): files/sophomoricParallelismAndConcurrency.pdf
 
-2023-11-27:
-    slides(pptx): files/slides/lecture24_concurrency.pptx
-    slides(pdf): files/slides/lecture24_concurrency.pdf
-    slides(inked): files/slides/lecture24_concurrency_ink.pdf
+2024-02-28:
+    slides(pptx): files/slides/lecture22_concurrency.pptx
+    slides(pdf): files/slides/lecture22_concurrency.pdf
     Grossman (6-7.1): files/sophomoricParallelismAndConcurrency.pdf
 
 2023-11-29:
