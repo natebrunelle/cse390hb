@@ -176,6 +176,8 @@
 2024-02-28:
     slides(pptx): files/slides/lecture22_concurrency.pptx
     slides(pdf): files/slides/lecture22_concurrency.pdf
+    slides(1230): files/slides/lecture22_concurrency_ink1230.pdf
+    slides(330): files/slides/lecture22_concurrency_ink330.pdf
     Grossman (6-7.1): files/sophomoricParallelismAndConcurrency.pdf
 
 2023-11-29:
@@ -184,10 +186,10 @@
     slides(inked): files/slides/lecture25_race_conditions_ink.pdf
     Grossman (8,9): files/sophomoricParallelismAndConcurrency.pdf
 
-2023-11-30:
-    slides: https://docs.google.com/presentation/d/1nDOzHBRH8l-1PYHvGyeOS9QgPs1iIxwtfvSC8sNrH1s/edit?usp=sharing
-    handout: https://docs.google.com/document/d/12W9iZxbAxYSbaqC3U--gnA0isfUST1owcsoeFKimpHw/edit?usp=sharing
-    solution: https://docs.google.com/document/d/1X4j7ZoE6HvZzoHKOTrv1HN5O1uq-F7BwYtsL7irLYnA/edit?usp=sharing
+2024-02-29:
+    slides: https://docs.google.com/presentation/d/1Qa-E3ClDWkJwLyMCQA5W9QrySJOs0snKUb6FFBgFv8g/edit?usp=sharing
+    handout: https://docs.google.com/document/d/1fitHpWphok7mSNOA1ye50HJnJaasGXy6mw8FYzZ9XxU/edit?usp=sharing
+    solution: https://docs.google.com/document/d/1ZPF_vLEMXJRTdnMXjCLyTUULUDRDDM55zpAGqtLwU9M/edit?usp=sharing
 
 2023-12-01:
     slides(pptx): files/slides/lecture26_deadlock.pptx
