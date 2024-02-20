@@ -183,6 +183,8 @@
 2024-03-01:
     slides(pptx): files/slides/lecture23_raceconditions_deadlock.pptx
     slides(pdf): files/slides/lecture23_raceconditions_deadlock.pdf
+    slides(1230): files/slides/lecture23_raceconditions_deadlock_ink1230.pdf
+    slides(330): files/slides/lecture23_raceconditions_deadlock_ink330.pdf
     Grossman (8,9): files/sophomoricParallelismAndConcurrency.pdf
 
 2024-02-29:
@@ -190,16 +192,9 @@
     handout: https://docs.google.com/document/d/1fitHpWphok7mSNOA1ye50HJnJaasGXy6mw8FYzZ9XxU/edit?usp=sharing
     solution: https://docs.google.com/document/d/1ZPF_vLEMXJRTdnMXjCLyTUULUDRDDM55zpAGqtLwU9M/edit?usp=sharing
 
-2023-12-01:
-    slides(pptx): files/slides/lecture26_deadlock.pptx
-    slides(pdf): files/slides/lecture26_deadlock.pdf
-    slides(inked): files/slides/lecture26_deadlock_ink.pdf
-    Grossman (8,9): files/sophomoricParallelismAndConcurrency.pdf
-
-2023-12-04:
+2024-03-04:
     slides(pptx): files/slides/lecture27_topsort_msts.pptx
     slides(pdf): files/slides/lecture27_topsort_msts.pdf
-    slides(inked): files/slides/lecture27_topsort_msts_ink.pdf
 
 2023-12-06:
     slides(pptx): files/slides/lecture28_pnp1.pptx
