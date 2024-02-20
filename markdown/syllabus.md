@@ -61,7 +61,7 @@ We will consider the grade assigned by the following weighted average (of percen
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Exercises                   25%     There will be about 12 total, your best 10 scores will count (the rest will be dropped).
+Exercises                   25%     There will be 13 total, your best 10 scores will count (we will drop the lowest from among excercises 9-12 and the next 2 lowest overall).
 Programming Projects        35%     There will be 3 total
 Exams                       40%     Midterm weighted 15%, Final weighted 25%
 
