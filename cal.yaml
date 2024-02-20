@@ -230,21 +230,21 @@ assignments:
     
     EX09:
         group: written
-        due: 2024-03-07 23:59:00
+        due: 2024-03-06 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.pdf'
         
     EX10:
         group: written
-        due: 2024-03-06 23:59:00
+        due: 2024-03-07 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.pdf'
         
     EX11:
         group: written
-        due: 2024-03-06 23:59:00
+        due: 2024-03-07 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.pdf'

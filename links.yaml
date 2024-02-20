@@ -180,10 +180,9 @@
     slides(330): files/slides/lecture22_concurrency_ink330.pdf
     Grossman (6-7.1): files/sophomoricParallelismAndConcurrency.pdf
 
-2023-11-29:
-    slides(pptx): files/slides/lecture25_race_conditions.pptx
-    slides(pdf): files/slides/lecture25_race_conditions.pdf
-    slides(inked): files/slides/lecture25_race_conditions_ink.pdf
+2024-03-01:
+    slides(pptx): files/slides/lecture23_raceconditions_deadlock.pptx
+    slides(pdf): files/slides/lecture23_raceconditions_deadlock.pdf
     Grossman (8,9): files/sophomoricParallelismAndConcurrency.pdf
 
 2024-02-29:
