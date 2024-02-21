@@ -195,11 +195,12 @@
 2024-03-04:
     slides(pptx): files/slides/lecture27_topsort_msts.pptx
     slides(pdf): files/slides/lecture27_topsort_msts.pdf
+    slides(1230): files/slides/lecture27_topsort_msts_ink1230.pdf
+    slides(330): files/slides/lecture27_topsort_msts_ink330.pdf
 
-2023-12-06:
-    slides(pptx): files/slides/lecture28_pnp1.pptx
-    slides(pdf): files/slides/lecture28_pnp1.pdf
-    slides(inked): files/slides/lecture28_pnp1_ink.pdf
+2024-03-04:
+    slides(pptx): files/slides/lecture28_msts_pnp.pptx
+    slides(pdf): files/slides/lecture28_msts_pnp.pdf
 
 2023-12-07:
     slides: https://docs.google.com/presentation/d/1fo29LkvX1sgYSxY8g3tv9VfR-NH7YNVJEv7MTUsh9jM/edit?usp=sharing
