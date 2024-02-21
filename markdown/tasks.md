@@ -115,7 +115,7 @@ You can find an answer key for this midterm exam [here](files/cse332-midterm-24w
 
 The Final Exam will be held on Thursday March 14 at 12:30pm-2:20pm in Kane 120.
 
-An optional review session will be held on Tuesday 3/12 at a time and location TBD.
+An optional review session will be held on Tuesday 3/12 at 4:30pm in CSE2 room G20.
 
 ### Policies
 
