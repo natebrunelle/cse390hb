@@ -117,12 +117,14 @@ The Final Exam will be held on Thursday March 14 at 12:30pm-2:20pm in Kane 120.
 
 An optional review session will be held on Tuesday 3/12 at 4:30pm in CSE2 room G20.
 
+Here is a preview of the [actual cover page](files/cse332_final_wi24_cover.pdf) of the exam.
+
 ### Policies
 
 1. Closed book, closed notes
 1. No calculators, cell phones, or other electronic devices allowed.
 1. No writing after time is called, make sure you put your name on your paper first.
-1. You will be provided a reference sheet during the exam.
+1. You will be provided a [reference sheet](files/cse332_final_wi24_reference.pdf) during the exam.
 
 ### Content
 
@@ -183,8 +185,10 @@ The final exam is cumulative, but will focus more on material covered since the 
 		- Lock scheme granularity (coarse vs. fine)
 		- Criticl section size
 		- Deadlock
-- P, NP, NP-Completeness
-	- Definitions and relationships between these classes
+- P, NP, NP-Completeness, EXP
+	- Definitions and relationships between these classes. For example, questions like:
+		- If a problem belongs to class NP, does it belong to P? How about EXP?
+		- If I have a verification algorithm that runs in quadratic time, which classes does it belong to from P, NP, EXP?
 	- Examples of problems in each
 
 Note: You will likely be asked to write java code using ForkJoin and/or threads. We will not require your syntax to be perfectly correct, but it should be correct enough that we can verify the code's would be correct if syntax issues were fixed. That is, we expect edge cases and other considerations of an algorithm to be correct, but don't necessarily expect all keywords or semicolons to be perfect.
