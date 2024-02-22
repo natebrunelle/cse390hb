@@ -201,12 +201,14 @@
 2024-03-06:
     slides(pptx): files/slides/lecture25_msts_pnp.pptx
     slides(pdf): files/slides/lecture25_msts_pnp.pdf
+    slides(1230): files/slides/lecture25_msts_pnp_ink1230.pdf
+    slides(330): files/slides/lecture25_msts_pnp_ink330.pdf
 
 2024-03-07:
     slides: https://docs.google.com/presentation/d/1JVj0U1N-jvScWiBlUI6ZSXhz_SFxqJXAAMD3o4uxbDc/edit?usp=sharing
     handout: https://docs.google.com/document/d/1FZHPhvOReWlaGhWxkrvrYgJEuvk6iqXfVuVu4uK7Wz0/edit?usp=sharing
     solution: https://docs.google.com/document/d/19BEmX-WYRzKTVmqCBaWuii6mItPylMv2UI5IDl5z1aE/edit?usp=sharing
 
-2023-12-08:
-    slides(pptx): files/slides/lecture29_pnp2.pptx
-    slides(pdf): files/slides/lecture29_pnp2.pdf
+2024-03-08:
+    slides(pptx): files/slides/lecture26_pnp.pptx
+    slides(pdf): files/slides/lecture26_pnp.pdf
