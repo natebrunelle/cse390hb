@@ -203,3 +203,7 @@ We have provided links to past exams below. Since all past exams were given by a
 - [CSE 332 19wi](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-19wi.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-19wi-soln.pdf)
 - [CSE 332 18au](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-18au.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-18au-soln.pdf)
 - [CSE 332 18wi](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-18wi.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-18wi-soln.pdf)
+
+### Answer key
+
+You can find an answer key for this midterm exam [here](files/cse332-final-24wi_soln.pdf).
