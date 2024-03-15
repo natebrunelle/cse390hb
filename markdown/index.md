@@ -4,107 +4,52 @@ title: Home
 
 Handy links:
 
-- [Gradescope](https://www.gradescope.com/courses/691773)
 - [Ed Board](https://edstem.org/us/courses/50612/discussion/)
-- [Lecture Recordings](https://canvas.uw.edu/courses/1695942/external_tools/21130)
-
-# Course Description
-
-Covers abstract data types and structures including dictionaries, balanced trees, hash tables, priority queues, and graphs; sorting; asymptotic analysis; fundamental graph algorithms including graph search, shortest path, and minimum spanning trees; multithreading and parallel algorithms; P and NP complexity classes.
 
 # Course Overview 
 
-The goal of this course is to expand your tool kit for solving a variety of computational problems, and to evaluate the quality of your solutions. In particular, we will cover:
-
-- Abstract Data Types, including:
-    - Dictionaries
-    - Balanced Trees
-    - Hash Tables
-    - Priority Queues
-    - Graphs
-- Sorting Algorithms
-- Asymptotic Analysis
-- Fundamental Graph Algorithms, including:
-    - Graph Search
-    - Shortest Path
-    - Minimum Spanning Trees
-- Multithreading and Parallel Algorithms
-- P and NP complexity Classes
-
-## Learning Outcomes
-
-At the conclusion of this course, a successful student will be able to:
-
-- Explain what is distinct about each abstract data type, including:
-    - The operations associated with each
-    - The resource complexity of each operation (time and space)
-    - When each can and should be used
-    - The tradeoffs among different choices of abstract data type
-- Use graph terminology with fluency
-- Identify and justify the resource complexity of the covered graph algorithms
-- Solve new graph problems by using or modifying a pre-existing graph algorithm
-- Analyze a pre-written algorithm to determine its resource complexity
-- Produce programs that make non-trivial use of multithreading
-- Identify opportunities to accelerate programs using parallelism
-- Idenify the characteristics of problems which belong to classes P and NP, then reason about the implications this classification has on the efficiency of solutions to such a problem.
-
-
+This is a discussion-based course. Each week, we will discuss various topics related to computer science. Our sessions will mostly relate to the societal and cultural impacts of technology and CS, and some exploration of some technical concepts. This course is NOT an opportunity to learn more programming or add more "rigor" to CSE 123, nor is any background or familiarity with computer science required outside of what is necessary for CSE 123. This is an opportunity to think about computer science and other related topics in a broader context.
 
 ## Eligibility
 
-You should take this course if and only if
+ALL students currently enrolled in cse123 are eiligible to take this course. If you are not an honors students then your enrollment requires instructor permission.
 
-1. You have credit for CSE 311 (Foundations of Computing I) or equivalent
-1. You are a CSE major
+## Assessment
 
+This is a 1-credit, discussion-based course. To earn credit for this course, you need to "complete" 7 weeks of discussion activities and the culminating project.
 
-### Background
+To "complete" a weekly discussion activity, you need to complete all of the following 3 things that week:
 
-This course will assume competency with Java programming (covered in the CSE12X or CSE14X sequence) and knowledge of several topics from Discrete Math (covered in CSE 311)
+1. Do the assigned reading
+1. Complete the required post-reading reflection (requires some effort for completion)
+1. Attend the discussion for that week
+1. If you finish all the tasks and attend for a week, it's "completed". There are 9 weeks that we will be meeting so that means you are able to miss 2 and still receive credit for the class!
 
-In particular, we assume knowledge of:
+Details about the culminating activity will be posted towards the end of the quarter. It will involve researching and writing a paper on a new topic based on our discussions throughout the quarter.
 
-- Logarithms and identities ([Log rules](https://en.wikipedia.org/wiki/List_of_logarithmic_identities))
-- Sets
-- Functions 
-- Proof Techniques
-- Logic and Notation
-- Recursion
+The readings and activities for this class are not meant to take up a lot of time and you are not being tested on your understanding of the material. The reflections are there to get you thinking about computer science, how you can apply it to your own areas of interest, and how it impacts your day to day life.
 
-# Platforms
+## Readings
 
-Platform                    Purpose
--------------------------   ----------------------------------------------
-This Website                Central repository of course information and content including: syllabus, schedule, file hosting, readings, assignment writeups, etc.
-Canvas                      Linking to all of the other tools, lecture recordings
-Ed Message Board            Course content and policy questions
-Gradescope                  Homework submission and grading
-Gitlab                      Project releases and submission on Gradescope
+Throughout the quarter we will be reading **The Ethical Algorithm** by Michael Kearns & Aaron Roth. This should be considered as our required course text.
 
+Michael Kearns is Professor and the National Center Chair in the Computer and Information Science department of the University of Pennsylvania, where he has secondary appointments in Economics and the Wharton School. He is also the Founding Director of Penn's Warren Center for Network and Data Sciences. Kearns has published widely in machine learning, artificial intelligence, algorithmic game theory and quantitative finance. He has worked extensively in the finance and technology industries, and consulted on various legal and regulatory matters involving algorithms, data, and machine learning. Together with U.V. Vazirani, he is the author of An Introduction to Computational Learning Theory.
 
-# What to expect in this course
+Aaron Roth is the class of 1940 Bicentennial Term Associate Professor in the Computer and Information Science department at the University of Pennsylvania, where he co-directs Penn's program in Networked and Social Systems Engineering. Roth has published widely in algorithms, machine learning, data privacy, and algorithmic game theory, and has consulted extensively about algorithmic privacy. He is the recipient of numerous awards, including a Presidential Early Career Award for Scientists and Engineers (PECASE) awarded by President Obama in 2016. Together with Cynthia Dwork, he is the author of The Algorithmic Foundations of Differential Privacy.
 
-In the opinion of this instructor, a data structures course should serve to:
+Some Purchasing Options: [Third Place Books](https://www.thirdplacebooks.com/book/9780190948207), [Powell's Books](https://www.powells.com/book/the-ethical-algorithm-9780190948207), [Amazon](https://www.amazon.com/Ethical-Algorithm-Science-Socially-Design/dp/0190948205/ref=sr_1_1?crid=1G7M0JP27K84W&keywords=the+ethical+algorithm&qid=1672876969&s=books&sprefix=the+ethical+algorit%2Cstripbooks%2C171&sr=1-1) (also as a cheaper eBook). Also available online through [UW Libraries](https://ebookcentral.proquest.com/lib/washington/detail.action?docID=5905172) and [Seattle Public Libraries](https://seattle.bibliocommons.com/v2/record/S30C3495090).
 
-1. introduce students to common, important, or otherwise noteworthy data structures
-1. provide opportunity for students to develop skill in selecting, using, and modifying data structures.
+Please contact Nathan if you are have concerns about getting access to this book.
 
-Since developing a skill is a much more substantial undertaking than understanding prior work of others, a substantial portion of your homework time will be spent on developing that skill. This will be at times uncomfortable, occasionally frustrating, but hopefully always fun and valuable in retrospect. I have a few guidelines/suggestions for how you can get the most out of this course:
+## Meetings
 
-1. Follow the instructions in the assignments. I've been a student before, and I understand the dizzying experience of learning something brand new. For this reason, I do not ask trick questions that are specifically intended to mislead you. If a question seems misleading, then most likely either there's something about the instructions or the content that you're missing, or else I made an error in drafting the assignment. In either case, the best thing to do is ask!
-1. Think carefully and precisely: While I will not purposefully mislead you, I may ask questions that are specifically designed to expose and correct a misleading intuition or common misconception.
-1. Don't expect homework to match lecture perfectly: Lecture is designed to introduce topics/concepts/strategies, and show how they operate. To maximize the future usefulness of this course's content, it covers topics whose applications are broad. We will explore that breadth thorugh the *combination* of lectures and assignments. Almost always, I will tell you which topics to employ in the assignments. It may not be obvious how or why that concept is relevant, but I promise it is. The goal of the assignment is to broaden your understanding of the concept so that it will be more useful to you when you complete this class.
+Each week we will meet on Tuesday at 3:30pm-4:50pm in [Loew](https://www.washington.edu/maps/#!/LOW) 111 to discuss the weekly reading. 
 
 
-
-# What to expect in office hours
-
-Instructor and TA office hours will be available to assist you in understanding course concepts and applying those concepts to your assignments. Office hours should never be used as a substitute for your own learning or for your own earnest effort. As such, the amount of assistance the course staff will provide should correlate with the amount of effort you've made and understanding you possess. In short, the more effort and understanding you have demonstrated before arriving to office hours, the more precise the help we will provide. If you're just beginning to solve the problem or are missing some concept then the help given will be more conceptual in nature.
-
-The Allen School's allocation of TA support for this course is 20 minutes of TA time per week per student. This accounts for all time the TA spends on any course activity (office hours, grading, staff meetings, personal prep, etc.), so TAs have less that 20 minutes per student to spend in office hours. Because this resource can be scarce, here are some expectations and tips for managing office hours:
-
--  When there is a queue in office hours, we will limit each student-TA interaction to addressing just a single question. To ask multiple questions you will need to re-enter the queue. The reason for this policy is to help as many students as quickly as possible, since after a first round of assistance you will have an opportunity to make more progress on your own before your turn comes up again. I recommend arriving prepared with the question that is your biggest "blocker" to progress.
-- Work-in-progress code is often difficult for a third-party to read. Be prepared to help the course staff member to understand your approach.
-- For quick clarification questions, consider using the Ed Message Board first. Your question may already be answered there, and even if not then you may get an answer faster compared to going to office hours.
-
-
+To ensure all students are able to get maximum value from this class, please observe the following principles for discussion:
+- Make room for everyone to participate
+- When someone describes a lived experience, believe them
+- Acknowledge that identities are not monolithic
+- Be comfortable not knowing, and be respectful when others don't know
+- Critique ideas, not people
+- Avoid posturing

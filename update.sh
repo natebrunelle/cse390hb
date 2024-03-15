@@ -4,10 +4,10 @@ here="$(dirname "$(readlink -m "$0")")/"
 self="$(readlink -m "$0")"
 cd "$here"
 target="$(readlink -f "$here""/demo_site/")/"
-remote=brunelle@attu.cs.washington.edu:/cse/web/courses/cse332/24wi
+remote=brunelle@attu.cs.washington.edu:/cse/web/courses/cse390hb/24sp
 if [ "$#" -gt 0 ] && [ "$1" != 'test' ]
 then
-	remote="$1"@attu.cs.washington.edu:/cse/web/courses/cse332/24wi
+	remote="$1"@attu.cs.washington.edu:/cse/web/courses/cse390hb/24sp
 fi
 mkdir -p "$target"files
 
@@ -56,7 +56,7 @@ function upfile_inner() {
             --to=html5 \
             --from=markdown+inline_code_attributes+smart \
             --number-sections \
-            --title-prefix="CSE332" \
+            --title-prefix="CSE390hb" \
             --table-of-contents --toc-depth=3 \
             --css=${prefix}style.css \
             --katex='https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/' \
