@@ -252,6 +252,7 @@ def cal2html(cal):
                     if more:
                         ans.append('<details class="{}">'.format(' '.join(classes)))
                         ans.append('<summary>{}</summary>'.format(title))
+                        ans.append('<small>Reading</small>')
                         ans.append(' <small>and\n</small> '.join(more))
                         ans.append('</details>')
                     else:
