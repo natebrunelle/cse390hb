@@ -56,7 +56,7 @@ def raw2cal(data, links=None):
         if d == data['meta']['final']['start'].date():
             final = data['meta']['final']
             ans.append({
-                "title":"Final Exam",
+                "title":"Culminating Project",
                 "kind":"exam",
                 "from":final['start'],
                 "to":final['start'] + timedelta(0,60*final['duration']),
