@@ -2,9 +2,6 @@
 title: Home
 ...
 
-Handy links:
-
-- [Ed Board](https://edstem.org/us/courses/50612/discussion/)
 
 # Course Overview 
 
