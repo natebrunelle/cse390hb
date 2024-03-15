@@ -8,6 +8,10 @@ meta:
   name: Algorithms
   lecture exam: true
   home: https://www.cs.virginia.edu/~njb2b/cs3100/s23
+  final:
+    start: 2024-06-01 08:30:00
+    duration: 110
+    room: NA
 
 sections:
   Brunelle:
@@ -19,12 +23,12 @@ sections:
   Lab:
     type: lab
     room: Various
-    days: [Thursday]
+    days: []
     start: 24:00:00
     duration: 1439
 
 labs:
-    days: [Thursday]
+    days: []
 
 
 lectures:
@@ -40,7 +44,7 @@ lectures:
     - Concluding thoughts
 
 reading:
-    Introduction to The Ethical Algorithm
+    Introduction to The Ethical Algorithm:
         - "Introduction"
     Ensuring Privacy:
         - "Chapter 1"
