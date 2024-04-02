@@ -44,6 +44,7 @@ Each week we will meet on Tuesday at 3:30pm-4:50pm in [Loew](https://www.washing
 
 
 To ensure all students are able to get maximum value from this class, please observe the following principles for discussion:
+
 - Make room for everyone to participate
 - When someone describes a lived experience, believe them
 - Acknowledge that identities are not monolithic
