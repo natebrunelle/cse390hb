@@ -13,7 +13,7 @@ ALL students currently enrolled in cse123 are eiligible to take this course. If 
 
 ## Assessment
 
-This is a 1-credit, discussion-based course. To earn credit for this course, you need to "complete" 7 weeks of discussion activities and the culminating project.
+This is a 1-credit, discussion-based course. To earn credit for this course, you need to "complete" 7 weeks of discussion activities and the [culminating project](https://docs.google.com/document/d/e/2PACX-1vQejNxCcqFKr0rLeS7319BNAE-9T8LhPcRFW0HFGnlSy6bvP7aQ8qtmGW0BBqXgIIuD4QdLFwuJf3AL/pub).
 
 To "complete" a weekly discussion activity, you need to complete all of the following 3 things that week:
 
@@ -21,8 +21,6 @@ To "complete" a weekly discussion activity, you need to complete all of the foll
 1. Complete the required post-reading reflection (requires some effort for completion)
 1. Attend the discussion for that week
 1. If you finish all the tasks and attend for a week, it's "completed". There are 9 weeks that we will be meeting so that means you are able to miss 2 and still receive credit for the class!
-
-Details about the culminating activity will be posted towards the end of the quarter. It will involve researching and writing a paper on a new topic based on our discussions throughout the quarter.
 
 The readings and activities for this class are not meant to take up a lot of time and you are not being tested on your understanding of the material. The reflections are there to get you thinking about computer science, how you can apply it to your own areas of interest, and how it impacts your day to day life.
 
@@ -51,3 +49,5 @@ To ensure all students are able to get maximum value from this class, please obs
 - Be comfortable not knowing, and be respectful when others don't know
 - Critique ideas, not people
 - Avoid posturing
+
+
