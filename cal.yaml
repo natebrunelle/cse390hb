@@ -1,6 +1,6 @@
 Special Dates:
-  Courses begin: 2024-03-25
-  Courses end: 2024-05-31
+  Courses begin: 2024-09-25
+  Courses end: 2024-12-06
   Memorial Day: 2024-05-27
 
 meta:
@@ -17,7 +17,7 @@ sections:
   Brunelle:
     type: lecture
     room: Gilmer 301
-    days: [Tuesday]
+    days: [Thursday]
     start: 14:00:00
     duration: 50
   Lab:
