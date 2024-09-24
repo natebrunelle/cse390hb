@@ -38,7 +38,7 @@ Please contact Nathan if you are have concerns about getting access to this book
 
 ## Meetings
 
-Each week we will meet on Tuesday at 3:30pm-4:50pm in [Loew](https://www.washington.edu/maps/#!/LOW) 111 to discuss the weekly reading. 
+Each week we will meet on Thursday at 3:00pm-4:20pm in [CSE](https://www.washington.edu/maps/#!/CSE) 403 to discuss the weekly reading. 
 
 
 To ensure all students are able to get maximum value from this class, please observe the following principles for discussion:
