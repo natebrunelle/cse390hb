@@ -4,10 +4,10 @@ here="$(dirname "$(readlink -m "$0")")/"
 self="$(readlink -m "$0")"
 cd "$here"
 target="$(readlink -f "$here""/demo_site/")/"
-remote=brunelle@attu.cs.washington.edu:/cse/web/courses/cse390hb/24au
+remote=brunelle@attu.cs.washington.edu:/cse/web/courses/cse390hb/25wi
 if [ "$#" -gt 0 ] && [ "$1" != 'test' ]
 then
-	remote="$1"@attu.cs.washington.edu:/cse/web/courses/cse390hb/24au
+	remote="$1"@attu.cs.washington.edu:/cse/web/courses/cse390hb/25wi
 fi
 mkdir -p "$target"files
 
