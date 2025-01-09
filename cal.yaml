@@ -16,7 +16,7 @@ sections:
   Brunelle:
     type: lecture
     room: Gilmer 301
-    days: [Thursday]
+    days: [Tuesday]
     start: 14:00:00
     duration: 50
   Lab:
